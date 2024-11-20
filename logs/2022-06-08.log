@@ -1,0 +1,44 @@
+
+2022-06-08 17:23:52,857 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\api_yaml\login.yml
+
+2022-06-08 17:23:52,938 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/user/login  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'Content-Length': '56', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'data': {'password': 'qiz3DwnIhxml+YVQRgCz5g==', 'username': 'N/hB1rj3sKt5HLA5ikuapg=='}}  
+
+            返回信息: {'returnCode': 200, 'success': True, 'data': {'authorizationToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjdXJyZW50IjoxNjU0NjgwMjM0MDE4LCJleHAiOjE2NTQ2ODM4MzQsImlhdCI6MTY1NDY4MDIzNCwidXNlckNvZGUiOiJiYTRkNzgxZTUyM2M0MzczOGI4ZDZiNGU1ZmEwY2QyMCJ9.HJJuxNDkENww921S4uo7GvLbGHfIcj7duiW9ax1c-dk', 'topCode': '-1'}, 'returnMsg': '操作成功!', 'returnData': {}}  
+
+            
+
+2022-06-08 17:23:52,976 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\api_yaml\saveExaPlanApi.yml
+
+2022-06-08 17:23:53,039 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/exaPlan/saveExaPlan  
+
+            请求参数：{'headers': {'authorization_token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjdXJyZW50IjoxNjU0NjgwMjM0MDE4LCJleHAiOjE2NTQ2ODM4MzQsImlhdCI6MTY1NDY4MDIzNCwidXNlckNvZGUiOiJiYTRkNzgxZTUyM2M0MzczOGI4ZDZiNGU1ZmEwY2QyMCJ9.HJJuxNDkENww921S4uo7GvLbGHfIcj7duiW9ax1c-dk', 'Proxy-Connection': 'keep-alive', 'Content-Type': 'application/json;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'json': {'advanceSubmit': 1, 'advanceSubmitTime': 30, 'area': ['dd9b2987af4a11e9ac97005056ae9835', 'dd9be929af4a11e9ac97005056ae9835'], 'city': 'dd9be929af4a11e9ac97005056ae9835', 'endTime': '2022-06-18 23:59:59', 'faceReg': 1, 'job': '375a468328aa45f28e2cfbfaa9cfd0e5', 'jobCode': '375a468328aa45f28e2cfbfaa9cfd0e5', 'onlineSwitch': 0, 'planCate': '0', 'planName': '锅巴:你就是歌姬吧1654680231', 'planStep': 0, 'planType': 0, 'positionSign': 1, 'province': 'dd9b2987af4a11e9ac97005056ae9835', 'regTimes': 1, 'selDate': ['2022-05-13T08:55:58.101Z', '2022-05-29T08:55:58.101Z'], 'socialSignEndTime': '2022-06-18 23:59:59', 'socialSignStartTime': '2022-06-08 00:00:00', 'sociologyDate': ['2022-05-13T08:56:31.901Z', '2022-05-29T08:56:31.901Z'], 'startTime': '2022-06-08 00:00:00', 'sub': [0, 1], 'subjects': '0,1', 'workCode': '53db1e63b7ea484581e489037b4728e0', 'workLevelCode': '8427964542f34e4ca87620e0a3a48d89'}}  
+
+            返回信息: {'returnCode': 200, 'success': True, 'data': None, 'returnMsg': '操作成功!', 'returnData': {}}  
+
+            
+
+2022-06-08 17:45:44,563 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\api_yaml\login.yml
+
+2022-06-08 17:45:44,620 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/user/login  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'Content-Length': '56', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'data': {'password': 'qiz3DwnIhxml+YVQRgCz5g==', 'username': 'N/hB1rj3sKt5HLA5ikuapg=='}}  
+
+            返回信息: {'returnCode': 200, 'success': True, 'data': {'authorizationToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjdXJyZW50IjoxNjU0NjgxNTQ1Njg1LCJleHAiOjE2NTQ2ODUxNDUsImlhdCI6MTY1NDY4MTU0NSwidXNlckNvZGUiOiJiYTRkNzgxZTUyM2M0MzczOGI4ZDZiNGU1ZmEwY2QyMCJ9.qtTy9IjLUsAc2z6IyXn3Z21zmhLBdN5-PWSMUtKu3uc', 'topCode': '-1'}, 'returnMsg': '操作成功!', 'returnData': {}}  
+
+            
+
+2022-06-08 17:45:44,637 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\api_yaml\saveExaPlanApi.yml
+
+2022-06-08 17:45:44,700 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/exaPlan/saveExaPlan  
+
+            请求参数：{'headers': {'authorization_token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjdXJyZW50IjoxNjU0NjgxNTQ1Njg1LCJleHAiOjE2NTQ2ODUxNDUsImlhdCI6MTY1NDY4MTU0NSwidXNlckNvZGUiOiJiYTRkNzgxZTUyM2M0MzczOGI4ZDZiNGU1ZmEwY2QyMCJ9.qtTy9IjLUsAc2z6IyXn3Z21zmhLBdN5-PWSMUtKu3uc', 'Proxy-Connection': 'keep-alive', 'Content-Type': 'application/json;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'json': {'advanceSubmit': 1, 'advanceSubmitTime': 30, 'area': ['dd9b2987af4a11e9ac97005056ae9835', 'dd9be929af4a11e9ac97005056ae9835'], 'city': 'dd9be929af4a11e9ac97005056ae9835', 'endTime': '2022-06-18 23:59:59', 'faceReg': 1, 'job': '375a468328aa45f28e2cfbfaa9cfd0e5', 'jobCode': '375a468328aa45f28e2cfbfaa9cfd0e5', 'onlineSwitch': 0, 'planCate': '0', 'planName': '锅巴:甘萌1654681543', 'planStep': 0, 'planType': 0, 'positionSign': 1, 'province': 'dd9b2987af4a11e9ac97005056ae9835', 'regTimes': 1, 'selDate': ['2022-05-13T08:55:58.101Z', '2022-05-29T08:55:58.101Z'], 'socialSignEndTime': '2022-06-18 23:59:59', 'socialSignStartTime': '2022-06-08 00:00:00', 'sociologyDate': ['2022-05-13T08:56:31.901Z', '2022-05-29T08:56:31.901Z'], 'startTime': '2022-06-08 00:00:00', 'sub': [0, 1], 'subjects': '0,1', 'workCode': '53db1e63b7ea484581e489037b4728e0', 'workLevelCode': '8427964542f34e4ca87620e0a3a48d89'}}  
+
+            返回信息: {'returnCode': 200, 'success': True, 'data': None, 'returnMsg': '操作成功!', 'returnData': {}}  
+
+            

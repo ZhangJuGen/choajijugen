@@ -1,0 +1,322 @@
+
+2022-03-14 14:42:10,008 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-03-14 14:42:10,196 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/user/login  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'Content-Length': '56', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'data': {'password': '2/5ao/4bbFA9OK/YIOjjVA==', 'username': 'zsd1'}}  
+
+            返回信息: <Response [200]>  
+
+            
+
+2022-03-14 14:42:10,199 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\filView.yml
+
+2022-03-14 14:42:10,272 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/fil/view/filView  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'authorization_token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjdXJyZW50IjoxNjQ3MjQwMzU4ODk0LCJleHAiOjE2NDcyNDM5NTgsImlhdCI6MTY0NzI0MDM1OCwidXNlckNvZGUiOiIzMWYxNzc3Mjk1M2Q0MTdkOTI4ZGI5ZjI0OTdkMzI2MCJ9.M2KoxThVmRNnYlUGFBSBPbcEvN5Nf5McseNd2c7KBN0', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}}  
+
+            返回信息: <Response [200]>  
+
+            
+
+2022-03-14 14:42:27,739 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-03-14 14:42:27,821 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/user/login  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'Content-Length': '56', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'data': {'password': '2/5ao/4bbFA9OK/YIOjjVA==', 'username': 'zsd1'}}  
+
+            返回信息: <Response [200]>  
+
+            
+
+2022-03-14 14:42:27,824 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\filView.yml
+
+2022-03-14 14:42:27,854 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/fil/view/filView  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'authorization_token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjdXJyZW50IjoxNjQ3MjQwMzc2NTU1LCJleHAiOjE2NDcyNDM5NzYsImlhdCI6MTY0NzI0MDM3NiwidXNlckNvZGUiOiIzMWYxNzc3Mjk1M2Q0MTdkOTI4ZGI5ZjI0OTdkMzI2MCJ9.GKDYKpXZGxnNrrAZTaSGHH2az82Sc_24gWag8Wev9sU', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}}  
+
+            返回信息: <Response [200]>  
+
+            
+
+2022-03-14 14:44:41,339 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-03-14 14:44:41,497 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/user/login  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'Content-Length': '56', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'data': {'password': '2/5ao/4bbFA9OK/YIOjjVA==', 'username': 'ruotuo'}}  
+
+            返回信息: <Response [200]>  
+
+            
+
+2022-03-14 14:44:41,500 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\filView.yml
+
+2022-03-14 14:44:41,554 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/fil/view/filView  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'authorization_token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjdXJyZW50IjoxNjQ3MjQwNTEwMTk4LCJleHAiOjE2NDcyNDQxMTAsImlhdCI6MTY0NzI0MDUxMCwidXNlckNvZGUiOiI4ZDU1YjFlNjYxMzc0YmI5ODUzYWY4ODMwMWNjOTFkZSJ9.2FF9tKdoQziTkHGjGEi_nxf7SuPXTso7jsopteBvf-Y', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}}  
+
+            返回信息: <Response [200]>  
+
+            
+
+2022-03-14 16:35:25,175 template ERROR Too many positional arguments
+Traceback (most recent call last):
+  File "D:\zjg\laodaomeidan-master\common\template_handle.py", line 36, in template
+    template = Template(f.read()).substitute(*data)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\string.py", line 113, in substitute
+    raise TypeError('Too many positional arguments')
+TypeError: Too many positional arguments
+
+2022-03-14 16:35:25,245 template ERROR Too many positional arguments
+Traceback (most recent call last):
+  File "D:\zjg\laodaomeidan-master\common\template_handle.py", line 36, in template
+    template = Template(f.read()).substitute(*data)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\string.py", line 113, in substitute
+    raise TypeError('Too many positional arguments')
+TypeError: Too many positional arguments
+
+2022-03-14 16:35:25,264 template ERROR Too many positional arguments
+Traceback (most recent call last):
+  File "D:\zjg\laodaomeidan-master\common\template_handle.py", line 36, in template
+    template = Template(f.read()).substitute(*data)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\string.py", line 113, in substitute
+    raise TypeError('Too many positional arguments')
+TypeError: Too many positional arguments
+
+2022-03-14 16:38:25,288 template ERROR 'password'
+Traceback (most recent call last):
+  File "D:/zjg/laodaomeidan-master/common/template_handle.py", line 39, in template
+    template = Template(f.read()).substitute(data)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\string.py", line 132, in substitute
+    return self.pattern.sub(convert, self.template)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\string.py", line 125, in convert
+    return str(mapping[named])
+KeyError: 'password'
+
+2022-03-14 16:39:20,844 template ERROR 'password'
+Traceback (most recent call last):
+  File "D:/zjg/laodaomeidan-master/common/template_handle.py", line 39, in template
+    template = Template(f.read()).substitute(data)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\string.py", line 132, in substitute
+    return self.pattern.sub(convert, self.template)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\string.py", line 125, in convert
+    return str(mapping[named])
+KeyError: 'password'
+
+2022-03-14 16:40:02,183 template ERROR 'password'
+Traceback (most recent call last):
+  File "D:/zjg/laodaomeidan-master/common/template_handle.py", line 39, in template
+    template = Template(f.read()).substitute(data)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\string.py", line 132, in substitute
+    return self.pattern.sub(convert, self.template)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\string.py", line 125, in convert
+    return str(mapping[named])
+KeyError: 'password'
+
+2022-03-14 16:40:07,553 template ERROR 'password'
+Traceback (most recent call last):
+  File "D:/zjg/laodaomeidan-master/common/template_handle.py", line 39, in template
+    template = Template(f.read()).substitute(data)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\string.py", line 132, in substitute
+    return self.pattern.sub(convert, self.template)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\string.py", line 125, in convert
+    return str(mapping[named])
+KeyError: 'password'
+
+2022-03-14 16:42:32,181 template ERROR Too many positional arguments
+Traceback (most recent call last):
+  File "D:/zjg/laodaomeidan-master/common/template_handle.py", line 36, in template
+    template = Template(f.read()).substitute(*data)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\string.py", line 113, in substitute
+    raise TypeError('Too many positional arguments')
+TypeError: Too many positional arguments
+
+2022-03-14 16:43:01,836 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-03-14 16:43:10,734 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-03-14 16:43:15,784 template ERROR Too many positional arguments
+Traceback (most recent call last):
+  File "D:\zjg\laodaomeidan-master\common\template_handle.py", line 36, in template
+    template = Template(f.read()).substitute(*data)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\string.py", line 113, in substitute
+    raise TypeError('Too many positional arguments')
+TypeError: Too many positional arguments
+
+2022-03-14 16:43:15,853 template ERROR Too many positional arguments
+Traceback (most recent call last):
+  File "D:\zjg\laodaomeidan-master\common\template_handle.py", line 36, in template
+    template = Template(f.read()).substitute(*data)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\string.py", line 113, in substitute
+    raise TypeError('Too many positional arguments')
+TypeError: Too many positional arguments
+
+2022-03-14 16:43:15,871 template ERROR Too many positional arguments
+Traceback (most recent call last):
+  File "D:\zjg\laodaomeidan-master\common\template_handle.py", line 36, in template
+    template = Template(f.read()).substitute(*data)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\string.py", line 113, in substitute
+    raise TypeError('Too many positional arguments')
+TypeError: Too many positional arguments
+
+2022-03-14 16:43:45,933 template ERROR Too many positional arguments
+Traceback (most recent call last):
+  File "D:\zjg\laodaomeidan-master\common\template_handle.py", line 36, in template
+    template = Template(f.read()).substitute(*data)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\string.py", line 113, in substitute
+    raise TypeError('Too many positional arguments')
+TypeError: Too many positional arguments
+
+2022-03-14 16:43:46,001 template ERROR Too many positional arguments
+Traceback (most recent call last):
+  File "D:\zjg\laodaomeidan-master\common\template_handle.py", line 36, in template
+    template = Template(f.read()).substitute(*data)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\string.py", line 113, in substitute
+    raise TypeError('Too many positional arguments')
+TypeError: Too many positional arguments
+
+2022-03-14 16:43:46,019 template ERROR Too many positional arguments
+Traceback (most recent call last):
+  File "D:\zjg\laodaomeidan-master\common\template_handle.py", line 36, in template
+    template = Template(f.read()).substitute(*data)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\string.py", line 113, in substitute
+    raise TypeError('Too many positional arguments')
+TypeError: Too many positional arguments
+
+2022-03-14 16:47:21,362 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-03-14 16:47:21,655 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/user/login  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'Content-Length': '56', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'data': {'password': '2/5ao/4bbFA9OK/YIOjjVA==', 'username': 'zhongli'}}  
+
+            返回信息: <Response [200]>  
+
+            
+
+2022-03-14 16:47:21,660 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-03-14 16:47:21,943 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/user/login  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'Content-Length': '56', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'data': {'password': '2/5ao/4bbFA9OK/YIOjjVA==', 'username': 'ruotuo'}}  
+
+            返回信息: <Response [200]>  
+
+            
+
+2022-03-14 16:47:21,948 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-03-14 16:47:22,223 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/user/login  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'Content-Length': '56', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'data': {'password': '2/5ao/4bbFA9OK/YIOjjVA==', 'username': 'azhen'}}  
+
+            返回信息: <Response [200]>  
+
+            
+
+2022-03-14 16:50:55,405 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-03-14 16:50:55,592 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/user/login  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'Content-Length': '56', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'data': {'password': '2/5ao/4bbFA9OK/YIOjjVA==', 'username': 'zhongli'}}  
+
+            返回信息: <Response [200]>  
+
+            
+
+2022-03-14 16:50:55,597 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-03-14 16:50:55,812 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/user/login  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'Content-Length': '56', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'data': {'password': '2/5ao/4bbFA9OK/YIOjjVA==', 'username': 'ruotuo'}}  
+
+            返回信息: <Response [200]>  
+
+            
+
+2022-03-14 16:50:55,816 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-03-14 16:50:56,038 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/user/login  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'Content-Length': '56', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'data': {'password': '2/5ao/4bbFA9OK/YIOjjVA==', 'username': 'azhen'}}  
+
+            返回信息: <Response [200]>  
+
+            
+
+2022-03-14 16:54:55,556 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-03-14 16:54:55,760 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/user/login  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'Content-Length': '56', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'data': {'password': '2/5ao/4bbFA9OK/YIOjjVA==', 'username': 'zhongli'}}  
+
+            返回信息: <Response [200]>  
+
+            
+
+2022-03-14 16:54:55,763 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\filView.yml
+
+2022-03-14 16:54:55,902 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/fil/view/filView  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'authorization_token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjdXJyZW50IjoxNjQ3MjQ4MzMzNzU4LCJleHAiOjE2NDcyNTE5MzMsImlhdCI6MTY0NzI0ODMzMywidXNlckNvZGUiOiIwMmZhYjVjYjZhNTc0YjcwOTk2ZjAwNzg2ZGM4YWVkMCJ9._FSM7PHm2olanL5NV1Tc_BC1DIhHq_f4wClf2ITxbjI', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}}  
+
+            返回信息: <Response [200]>  
+
+            
+
+2022-03-14 16:54:55,906 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-03-14 16:54:56,152 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/user/login  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'Content-Length': '56', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'data': {'password': '2/5ao/4bbFA9OK/YIOjjVA==', 'username': 'ruotuo'}}  
+
+            返回信息: <Response [200]>  
+
+            
+
+2022-03-14 16:54:56,155 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\filView.yml
+
+2022-03-14 16:54:56,297 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/fil/view/filView  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'authorization_token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjdXJyZW50IjoxNjQ3MjQ4MzM0MTI3LCJleHAiOjE2NDcyNTE5MzQsImlhdCI6MTY0NzI0ODMzNCwidXNlckNvZGUiOiI4ZDU1YjFlNjYxMzc0YmI5ODUzYWY4ODMwMWNjOTFkZSJ9.Y77oFO8KA6ybSfOfd-vz612MPr4zbNthCtopZK9Qoso', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}}  
+
+            返回信息: <Response [200]>  
+
+            
+
+2022-03-14 16:54:56,302 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-03-14 16:54:56,518 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/user/login  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'Content-Length': '56', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'data': {'password': '2/5ao/4bbFA9OK/YIOjjVA==', 'username': 'azhen'}}  
+
+            返回信息: <Response [200]>  
+
+            
+
+2022-03-14 16:54:56,520 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\filView.yml
+
+2022-03-14 16:54:56,620 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/fil/view/filView  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'authorization_token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjdXJyZW50IjoxNjQ3MjQ4MzM0NTA4LCJleHAiOjE2NDcyNTE5MzQsImlhdCI6MTY0NzI0ODMzNCwidXNlckNvZGUiOiI4YTlkNGI3ZDkwYzI0M2U0OTVhNjdiZjRjYTgxZTE3MCJ9.hLsx6cMVB5JYbCtlA0z6b1c7_rVWHoWx9-Szbmzf3n0', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}}  
+
+            返回信息: <Response [200]>  
+
+            

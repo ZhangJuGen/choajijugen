@@ -1,0 +1,132 @@
+
+2022-03-10 13:14:47,683 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-03-10 13:14:49,194 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/user/login  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'Content-Length': '56', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'data': {'password': 'j+/PBzyABP44lxZ5CgZK9Q==', 'username': 'admin'}}  
+
+            返回信息: <Response [200]>  
+
+            
+
+2022-03-10 13:14:49,213 template ERROR string indices must be integers
+Traceback (most recent call last):
+  File "D:\zjg\laodaomeidan-master\common\template_handle.py", line 39, in template
+    template = Template(f.read()).substitute(data)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\string.py", line 132, in substitute
+    return self.pattern.sub(convert, self.template)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\string.py", line 125, in convert
+    return str(mapping[named])
+TypeError: string indices must be integers
+
+2022-03-10 13:20:33,815 template ERROR string indices must be integers
+Traceback (most recent call last):
+  File "D:/zjg/laodaomeidan-master/common/template_handle.py", line 39, in template
+    template = Template(f.read()).substitute(data)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\string.py", line 132, in substitute
+    return self.pattern.sub(convert, self.template)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\string.py", line 125, in convert
+    return str(mapping[named])
+TypeError: string indices must be integers
+
+2022-03-10 13:23:18,091 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\filView.yml
+
+2022-03-10 13:24:08,305 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-03-10 13:24:09,301 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/user/login  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'Content-Length': '56', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'data': {'password': 'j+/PBzyABP44lxZ5CgZK9Q==', 'username': 'admin'}}  
+
+            返回信息: <Response [200]>  
+
+            
+
+2022-03-10 13:24:09,305 template ERROR 'set' object is not subscriptable
+Traceback (most recent call last):
+  File "D:\zjg\laodaomeidan-master\common\template_handle.py", line 39, in template
+    template = Template(f.read()).substitute(data)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\string.py", line 132, in substitute
+    return self.pattern.sub(convert, self.template)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\string.py", line 125, in convert
+    return str(mapping[named])
+TypeError: 'set' object is not subscriptable
+
+2022-03-10 13:24:36,231 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\filView.yml
+
+2022-03-10 13:25:15,330 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-03-10 13:25:16,150 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/user/login  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'Content-Length': '56', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'data': {'password': 'j+/PBzyABP44lxZ5CgZK9Q==', 'username': 'admin'}}  
+
+            返回信息: <Response [200]>  
+
+            
+
+2022-03-10 13:25:16,155 template ERROR 'set' object is not subscriptable
+Traceback (most recent call last):
+  File "D:\zjg\laodaomeidan-master\common\template_handle.py", line 39, in template
+    template = Template(f.read()).substitute(data)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\string.py", line 132, in substitute
+    return self.pattern.sub(convert, self.template)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\string.py", line 125, in convert
+    return str(mapping[named])
+TypeError: 'set' object is not subscriptable
+
+2022-03-10 13:26:53,036 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-03-10 13:26:54,419 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/user/login  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'Content-Length': '56', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'data': {'password': 'j+/PBzyABP44lxZ5CgZK9Q==', 'username': 'admin'}}  
+
+            返回信息: <Response [200]>  
+
+            
+
+2022-03-10 13:26:54,423 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\filView.yml
+
+2022-03-10 13:26:54,555 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/fil/view/filView  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'authorization_token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjdXJyZW50IjoxNjQ2ODkwMjM2MzI2LCJleHAiOjE2NDY4OTM4MzYsImlhdCI6MTY0Njg5MDIzNiwidXNlckNvZGUiOiIxIn0.ea-RPkmjoK1SYyDAGgUrysFqCTcCGvAeilyJ1mZ5Kys', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}}  
+
+            返回信息: <Response [200]>  
+
+            
+
+2022-03-10 13:32:52,943 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-03-10 13:32:54,095 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/user/login  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'Content-Length': '56', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'data': {'password': '2/5ao/4bbFA9OK/YIOjjVA==', 'username': 'zsd1'}}  
+
+            返回信息: <Response [200]>  
+
+            
+
+2022-03-10 13:32:54,099 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\filView.yml
+
+2022-03-10 13:32:54,440 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/fil/view/filView  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'authorization_token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjdXJyZW50IjoxNjQ2ODkwNTk1OTg0LCJleHAiOjE2NDY4OTQxOTUsImlhdCI6MTY0Njg5MDU5NiwidXNlckNvZGUiOiIzMWYxNzc3Mjk1M2Q0MTdkOTI4ZGI5ZjI0OTdkMzI2MCJ9.sXkGGVsr6BJzsVlhRJd3B-QNXyeXKwnmBy6FIC8oj2I', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}}  
+
+            返回信息: <Response [200]>  
+
+            
+
+2022-03-10 15:41:42,419 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-03-10 15:41:49,128 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/user/login  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'Content-Length': '56', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'data': {'password': '2/5ao/4bbFA9OK/YIOjjVA==', 'username': 'zsd1'}}  
+
+            返回信息: <Response [504]>  
+
+            

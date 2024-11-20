@@ -1,0 +1,154 @@
+
+2022-06-24 20:14:10,777 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\api_yaml\login.yml
+
+2022-06-24 20:14:11,019 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/user/login  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'Content-Length': '56', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'data': {'password': 'qiz3DwnIhxml+YVQRgCz5g==', 'username': 'N/hB1rj3sKt5HLA5ikuapg=='}}  
+
+            返回信息: {'returnCode': 200, 'success': True, 'data': {'authorizationToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjdXJyZW50IjoxNjU2MDczMDkwMTczLCJleHAiOjE2NTYwNzY2OTAsImlhdCI6MTY1NjA3MzA5MCwidXNlckNvZGUiOiJiYTRkNzgxZTUyM2M0MzczOGI4ZDZiNGU1ZmEwY2QyMCJ9._-06h5zZHFS9gq5JRJIq0Ym5dNJ-yBQu7KTtwL5OKtg', 'topCode': '-1'}, 'returnMsg': '操作成功!', 'returnData': {}}  
+
+            
+
+2022-06-24 20:14:11,048 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\api_yaml\saveExaPlanApi.yml
+
+2022-06-24 20:14:11,284 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/exaPlan/saveExaPlan  
+
+            请求参数：{'headers': {'authorization_token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjdXJyZW50IjoxNjU2MDczMDkwMTczLCJleHAiOjE2NTYwNzY2OTAsImlhdCI6MTY1NjA3MzA5MCwidXNlckNvZGUiOiJiYTRkNzgxZTUyM2M0MzczOGI4ZDZiNGU1ZmEwY2QyMCJ9._-06h5zZHFS9gq5JRJIq0Ym5dNJ-yBQu7KTtwL5OKtg', 'Proxy-Connection': 'keep-alive', 'Content-Type': 'application/json;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'json': {'advanceSubmit': 1, 'advanceSubmitTime': 30, 'area': ['dd9b2987af4a11e9ac97005056ae9835', 'dd9be929af4a11e9ac97005056ae9835'], 'city': 'dd9be929af4a11e9ac97005056ae9835', 'endTime': '2022-07-04 23:59:59', 'faceReg': 1, 'job': '375a468328aa45f28e2cfbfaa9cfd0e5', 'jobCode': '375a468328aa45f28e2cfbfaa9cfd0e5', 'onlineSwitch': 0, 'planCate': '0', 'planName': '锅巴:我是大沙雕1656072848', 'planStep': 0, 'planType': 0, 'positionSign': 1, 'province': 'dd9b2987af4a11e9ac97005056ae9835', 'regTimes': 1, 'selDate': ['2022-05-13T08:55:58.101Z', '2022-05-29T08:55:58.101Z'], 'socialSignEndTime': '2022-07-04 23:59:59', 'socialSignStartTime': '2022-06-24 00:00:00', 'sociologyDate': ['2022-05-13T08:56:31.901Z', '2022-05-29T08:56:31.901Z'], 'startTime': '2022-06-24 00:00:00', 'sub': [0, 1], 'subjects': '0,1', 'workCode': '53db1e63b7ea484581e489037b4728e0', 'workLevelCode': '8427964542f34e4ca87620e0a3a48d89'}}  
+
+            返回信息: {'returnCode': 200, 'success': True, 'data': None, 'returnMsg': '操作成功!', 'returnData': {}}  
+
+            
+
+2022-06-24 20:14:11,332 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\api_yaml\saveStudentApi.yml
+
+2022-06-24 20:14:11,805 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/examaff/student/saveStudent  
+
+            请求参数：{'headers': {'authorization_token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjdXJyZW50IjoxNjU2MDczMDkwMTczLCJleHAiOjE2NTYwNzY2OTAsImlhdCI6MTY1NjA3MzA5MCwidXNlckNvZGUiOiJiYTRkNzgxZTUyM2M0MzczOGI4ZDZiNGU1ZmEwY2QyMCJ9._-06h5zZHFS9gq5JRJIq0Ym5dNJ-yBQu7KTtwL5OKtg', 'Proxy-Connection': 'keep-alive', 'Content-Type': 'application/json;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'json': {'age': 23, 'birth': '1999-03-07', 'bizCode': '', 'cardNo': 410501197111191308, 'cardType': '237', 'education': '0', 'electronicPhoto': 'https://danengshou.obs.cn-north-1.myhuaweicloud.com/71c24673558d458982589cdcbd95b4b6.jpg', 'examaffPlanCode': '55b5b30120e0434781d3889f4fcb0993', 'job': '375a468328aa45f28e2cfbfaa9cfd0e5', 'jobCode': '375a468328aa45f28e2cfbfaa9cfd0e5', 'mobile': 13431609592, 'planCoding': '530100202206240001', 'planType': 0, 'realNamePassed': 0, 'sex': '1', 'studentName': '崔凯1656072848', 'studentType': '0', 'trainSchool': '母猪产后的护理与调养专业学校', 'unit': '汉雅', 'workCode': '53db1e63b7ea484581e489037b4728e0', 'workLevelCode': '8427964542f34e4ca87620e0a3a48d89'}}  
+
+            返回信息: {'returnCode': 200, 'success': True, 'data': None, 'returnMsg': '操作成功!', 'returnData': {}}  
+
+            
+
+2022-06-24 20:14:11,846 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\api_yaml\studentAttachApi.yml
+
+2022-06-24 20:14:12,000 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/examaff/student/uploadAttach  
+
+            请求参数：{'headers': {'authorization_token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjdXJyZW50IjoxNjU2MDczMDkwMTczLCJleHAiOjE2NTYwNzY2OTAsImlhdCI6MTY1NjA3MzA5MCwidXNlckNvZGUiOiJiYTRkNzgxZTUyM2M0MzczOGI4ZDZiNGU1ZmEwY2QyMCJ9._-06h5zZHFS9gq5JRJIq0Ym5dNJ-yBQu7KTtwL5OKtg', 'Proxy-Connection': 'keep-alive', 'Content-Type': 'application/x-www-form-urlencoded', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'params': {'attachName': 'F8983F1DD17811C3C6B350B82C90A61A.jpg', 'attachSrc': 'https://danengshou.obs.cn-north-1.myhuaweicloud.com/ed4499281b77450284f90da87659ebee.jpg', 'modelCode': '1', 'planCode': '55b5b30120e0434781d3889f4fcb0993'}}  
+
+            返回信息: {'returnCode': 200, 'success': True, 'data': None, 'returnMsg': '操作成功!', 'returnData': {}}  
+
+            
+
+2022-06-24 20:14:12,052 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\api_yaml\saveSiteApi.yml
+
+2022-06-24 20:14:12,141 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/examaff/site/saveSite  
+
+            请求参数：{'headers': {'authorization_token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjdXJyZW50IjoxNjU2MDczMDkwMTczLCJleHAiOjE2NTYwNzY2OTAsImlhdCI6MTY1NjA3MzA5MCwidXNlckNvZGUiOiJiYTRkNzgxZTUyM2M0MzczOGI4ZDZiNGU1ZmEwY2QyMCJ9._-06h5zZHFS9gq5JRJIq0Ym5dNJ-yBQu7KTtwL5OKtg', 'Proxy-Connection': 'keep-alive', 'Content-Type': 'application/json;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'json': {'bizCode': '', 'fillingExamSiteCode': '91a62971ff1641e5b6b1ae1addb9115f', 'planCode': '55b5b30120e0434781d3889f4fcb0993', 'planCoding': '530100202206240001', 'planType': 0, 'siteType': '0'}}  
+
+            返回信息: {'returnCode': 200, 'success': True, 'data': {'id': None, 'bizCode': 'fad442350ee948a4a3b1ca6d420b9c24', 'planCode': '55b5b30120e0434781d3889f4fcb0993', 'planCoding': None, 'planType': None, 'fillingSiteName': None, 'fillingSiteCode': None, 'fillingExamSiteCode': '91a62971ff1641e5b6b1ae1addb9115f', 'sitePosition': None, 'siteLongitude': None, 'siteLatitude': None, 'siteType': 0, 'createBy': 'ba4d781e523c43738b8d6b4e5fa0cd20', 'createTime': '2022-06-24T12:18:11.290+0000', 'lastUpdateTime': '2022-06-24T12:18:11.290+0000', 'lastUpdateBy': 'ba4d781e523c43738b8d6b4e5fa0cd20', 'isDelete': 0, 'topCode': '8b7d7091d36bc4e950a4a1b68bab4178', 'dateInt': 220624, 'cameraList': None, 'cameras': None}, 'returnMsg': '操作成功!', 'returnData': {}}  
+
+            
+
+2022-06-24 20:14:12,171 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\api_yaml\saveSiteApi.yml
+
+2022-06-24 20:14:12,235 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/examaff/site/saveSite  
+
+            请求参数：{'headers': {'authorization_token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjdXJyZW50IjoxNjU2MDczMDkwMTczLCJleHAiOjE2NTYwNzY2OTAsImlhdCI6MTY1NjA3MzA5MCwidXNlckNvZGUiOiJiYTRkNzgxZTUyM2M0MzczOGI4ZDZiNGU1ZmEwY2QyMCJ9._-06h5zZHFS9gq5JRJIq0Ym5dNJ-yBQu7KTtwL5OKtg', 'Proxy-Connection': 'keep-alive', 'Content-Type': 'application/json;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'json': {'bizCode': '', 'fillingExamSiteCode': '91a62971ff1641e5b6b1ae1addb9115f', 'planCode': '55b5b30120e0434781d3889f4fcb0993', 'planCoding': '530100202206240001', 'planType': 0, 'siteType': '1'}}  
+
+            返回信息: {'returnCode': 200, 'success': True, 'data': {'id': None, 'bizCode': '1071001877a2494780dd771863cc6bf0', 'planCode': '55b5b30120e0434781d3889f4fcb0993', 'planCoding': None, 'planType': None, 'fillingSiteName': None, 'fillingSiteCode': None, 'fillingExamSiteCode': '91a62971ff1641e5b6b1ae1addb9115f', 'sitePosition': None, 'siteLongitude': None, 'siteLatitude': None, 'siteType': 1, 'createBy': 'ba4d781e523c43738b8d6b4e5fa0cd20', 'createTime': '2022-06-24T12:18:11.387+0000', 'lastUpdateTime': '2022-06-24T12:18:11.387+0000', 'lastUpdateBy': 'ba4d781e523c43738b8d6b4e5fa0cd20', 'isDelete': 0, 'topCode': '8b7d7091d36bc4e950a4a1b68bab4178', 'dateInt': 220624, 'cameraList': None, 'cameras': None}, 'returnMsg': '操作成功!', 'returnData': {}}  
+
+            
+
+2022-06-24 20:14:14,420 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\api_yaml\savePlaceApi.yml
+
+2022-06-24 20:14:14,605 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/examaff/site/savePlace  
+
+            请求参数：{'headers': {'authorization_token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjdXJyZW50IjoxNjU2MDczMDkwMTczLCJleHAiOjE2NTYwNzY2OTAsImlhdCI6MTY1NjA3MzA5MCwidXNlckNvZGUiOiJiYTRkNzgxZTUyM2M0MzczOGI4ZDZiNGU1ZmEwY2QyMCJ9._-06h5zZHFS9gq5JRJIq0Ym5dNJ-yBQu7KTtwL5OKtg', 'Proxy-Connection': 'keep-alive', 'Content-Type': 'application/json;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'json': {'area': {'address': '云南省昆明市呈贡区', 'addressComponents': {'city': '昆明市', 'district': '呈贡区', 'province': '云南省', 'street': '', 'streetNumber': ''}, 'business': '', 'point': {'lat': 24.906561, 'lng': 102.825089}, 'surroundingPois': [{'Yi': '房地产', 'address': '云南省昆明市呈贡区彩云中路', 'city': '昆明市', 'phoneNumber': None, 'point': {'lat': 24.906687, 'lng': 102.823444}, 'postcode': None, 'tags': ['房地产'], 'title': '众和东苑', 'type': 0, 'uid': 'e6d9df09eaed329eadb22a03'}]}, 'cameras': [], 'endTime': '2022-06-24 20:14:15', 'examSiteCode': 'fad442350ee948a4a3b1ca6d420b9c24', 'jks': ['李本莹'], 'monitors': [{'monitorCode': '23502a671cef47c0889f95399e888428'}], 'orgCode': 'd96b58f212c6418b9f146d65e7add859', 'placeDetailAddress': '考场', 'placeLatitude': 24.906561, 'placeLongitude': 102.825089, 'placeName': '玉兰路麓天路口考场', 'placePosition': '云南省昆明市呈贡区', 'planCode': '55b5b30120e0434781d3889f4fcb0993', 'planCoding': 530100202206240001, 'startTime': '2022-06-24 20:14:14', 'stuCount': 0, 'students': [{'studentCode': 'b4debf10dcd64d3e84497d30cdd3c394'}], 'suts': 1}}  
+
+            返回信息: {'returnCode': 200, 'success': True, 'data': None, 'returnMsg': '操作成功!', 'returnData': {}}  
+
+            
+
+2022-06-24 20:14:16,677 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\api_yaml\savePlaceApi.yml
+
+2022-06-24 20:14:16,784 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/examaff/site/savePlace  
+
+            请求参数：{'headers': {'authorization_token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjdXJyZW50IjoxNjU2MDczMDkwMTczLCJleHAiOjE2NTYwNzY2OTAsImlhdCI6MTY1NjA3MzA5MCwidXNlckNvZGUiOiJiYTRkNzgxZTUyM2M0MzczOGI4ZDZiNGU1ZmEwY2QyMCJ9._-06h5zZHFS9gq5JRJIq0Ym5dNJ-yBQu7KTtwL5OKtg', 'Proxy-Connection': 'keep-alive', 'Content-Type': 'application/json;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'json': {'area': {'address': '云南省昆明市呈贡区', 'addressComponents': {'city': '昆明市', 'district': '呈贡区', 'province': '云南省', 'street': '', 'streetNumber': ''}, 'business': '', 'point': {'lat': 24.906561, 'lng': 102.825089}, 'surroundingPois': [{'Yi': '房地产', 'address': '云南省昆明市呈贡区彩云中路', 'city': '昆明市', 'phoneNumber': None, 'point': {'lat': 24.906687, 'lng': 102.823444}, 'postcode': None, 'tags': ['房地产'], 'title': '众和东苑', 'type': 0, 'uid': 'e6d9df09eaed329eadb22a03'}]}, 'cameras': [], 'endTime': '2022-06-24 20:14:17', 'examSiteCode': '1071001877a2494780dd771863cc6bf0', 'jks': ['李本莹'], 'monitors': [{'monitorCode': '23502a671cef47c0889f95399e888428'}], 'orgCode': 'd96b58f212c6418b9f146d65e7add859', 'placeDetailAddress': '考场', 'placeLatitude': 24.906561, 'placeLongitude': 102.825089, 'placeName': '玉兰路麓天路口考场', 'placePosition': '云南省昆明市呈贡区', 'planCode': '55b5b30120e0434781d3889f4fcb0993', 'planCoding': 530100202206240001, 'startTime': '2022-06-24 20:14:16', 'stuCount': 0, 'students': [{'studentCode': 'b4debf10dcd64d3e84497d30cdd3c394'}], 'suts': 1}}  
+
+            返回信息: {'returnCode': 200, 'success': True, 'data': None, 'returnMsg': '操作成功!', 'returnData': {}}  
+
+            
+
+2022-06-24 20:14:16,829 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\api_yaml\saveDistributePersonApi.yml
+
+2022-06-24 20:14:16,921 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/exaAff/distributePerson  
+
+            请求参数：{'headers': {'authorization_token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjdXJyZW50IjoxNjU2MDczMDkwMTczLCJleHAiOjE2NTYwNzY2OTAsImlhdCI6MTY1NjA3MzA5MCwidXNlckNvZGUiOiJiYTRkNzgxZTUyM2M0MzczOGI4ZDZiNGU1ZmEwY2QyMCJ9._-06h5zZHFS9gq5JRJIq0Ym5dNJ-yBQu7KTtwL5OKtg', 'Proxy-Connection': 'keep-alive', 'Content-Type': 'application/json;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'json': {'personCode': ['259ef3e2bda84637abbfe66ba9e93e2d'], 'personType': 0, 'planCode': '55b5b30120e0434781d3889f4fcb0993', 'planCoding': 530100202206240001, 'planType': 0}}  
+
+            返回信息: {'returnCode': 200, 'success': True, 'data': None, 'returnMsg': '操作成功!', 'returnData': {}}  
+
+            
+
+2022-06-24 20:14:16,955 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\api_yaml\saveDistributePersonApi.yml
+
+2022-06-24 20:14:17,027 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/exaAff/distributePerson  
+
+            请求参数：{'headers': {'authorization_token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjdXJyZW50IjoxNjU2MDczMDkwMTczLCJleHAiOjE2NTYwNzY2OTAsImlhdCI6MTY1NjA3MzA5MCwidXNlckNvZGUiOiJiYTRkNzgxZTUyM2M0MzczOGI4ZDZiNGU1ZmEwY2QyMCJ9._-06h5zZHFS9gq5JRJIq0Ym5dNJ-yBQu7KTtwL5OKtg', 'Proxy-Connection': 'keep-alive', 'Content-Type': 'application/json;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'json': {'personCode': ['cb5fb763ae574f6ab4c9080d9f74037b'], 'personType': 1, 'planCode': '55b5b30120e0434781d3889f4fcb0993', 'planCoding': 530100202206240001, 'planType': 0}}  
+
+            返回信息: {'returnCode': 200, 'success': True, 'data': None, 'returnMsg': '操作成功!', 'returnData': {}}  
+
+            
+
+2022-06-24 20:14:17,066 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\api_yaml\saveDistributePersonApi.yml
+
+2022-06-24 20:14:17,169 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/exaAff/distributePerson  
+
+            请求参数：{'headers': {'authorization_token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjdXJyZW50IjoxNjU2MDczMDkwMTczLCJleHAiOjE2NTYwNzY2OTAsImlhdCI6MTY1NjA3MzA5MCwidXNlckNvZGUiOiJiYTRkNzgxZTUyM2M0MzczOGI4ZDZiNGU1ZmEwY2QyMCJ9._-06h5zZHFS9gq5JRJIq0Ym5dNJ-yBQu7KTtwL5OKtg', 'Proxy-Connection': 'keep-alive', 'Content-Type': 'application/json;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'json': {'personCode': ['e534f11638144821b4b2fe69118f4cb6', '74f47dd9df8d4d519f92aad63807b7f1', 'c1c2c092e33042659e765a5bd2716340'], 'personType': 3, 'planCode': '55b5b30120e0434781d3889f4fcb0993', 'planCoding': 530100202206240001, 'planType': 0}}  
+
+            返回信息: {'returnCode': 200, 'success': True, 'data': None, 'returnMsg': '操作成功!', 'returnData': {}}  
+
+            
+
+2022-06-24 20:14:17,182 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\api_yaml\addOffLinePaperApi.yml
+
+2022-06-24 20:14:17,328 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/exaAff/addOffLinePaper  
+
+            请求参数：{'headers': {'authorization_token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjdXJyZW50IjoxNjU2MDczMDkwMTczLCJleHAiOjE2NTYwNzY2OTAsImlhdCI6MTY1NjA3MzA5MCwidXNlckNvZGUiOiJiYTRkNzgxZTUyM2M0MzczOGI4ZDZiNGU1ZmEwY2QyMCJ9._-06h5zZHFS9gq5JRJIq0Ym5dNJ-yBQu7KTtwL5OKtg', 'Content-Type': 'application/x-www-form-urlencoded', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'params': {'formationType': 1, 'paperCoding': 1, 'paperSrc': 'https://danengshou.obs.cn-north-1.myhuaweicloud.com/7c27c0323ecc45699307cc5342dd8845.jpg', 'planCode': '55b5b30120e0434781d3889f4fcb0993', 'type': '0'}}  
+
+            返回信息: {'returnCode': 200, 'success': True, 'data': None, 'returnMsg': '操作成功!', 'returnData': {}}  
+
+            
+
+2022-06-24 20:14:17,366 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\api_yaml\addOffLinePaperApi.yml
+
+2022-06-24 20:14:17,444 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/exaAff/addOffLinePaper  
+
+            请求参数：{'headers': {'authorization_token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjdXJyZW50IjoxNjU2MDczMDkwMTczLCJleHAiOjE2NTYwNzY2OTAsImlhdCI6MTY1NjA3MzA5MCwidXNlckNvZGUiOiJiYTRkNzgxZTUyM2M0MzczOGI4ZDZiNGU1ZmEwY2QyMCJ9._-06h5zZHFS9gq5JRJIq0Ym5dNJ-yBQu7KTtwL5OKtg', 'Content-Type': 'application/x-www-form-urlencoded', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'params': {'formationType': 1, 'paperCoding': 2, 'paperSrc': 'https://danengshou.obs.cn-north-1.myhuaweicloud.com/7c27c0323ecc45699307cc5342dd8845.jpg', 'planCode': '55b5b30120e0434781d3889f4fcb0993', 'type': '1'}}  
+
+            返回信息: {'returnCode': 200, 'success': True, 'data': None, 'returnMsg': '操作成功!', 'returnData': {}}  
+
+            
+
+2022-06-24 20:14:17,448 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\api_yaml\filView.yml
+
+2022-06-24 20:14:17,512 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/fil/view/filView  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'authorization_token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjdXJyZW50IjoxNjU2MDczMDkwMTczLCJleHAiOjE2NTYwNzY2OTAsImlhdCI6MTY1NjA3MzA5MCwidXNlckNvZGUiOiJiYTRkNzgxZTUyM2M0MzczOGI4ZDZiNGU1ZmEwY2QyMCJ9._-06h5zZHFS9gq5JRJIq0Ym5dNJ-yBQu7KTtwL5OKtg', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}}  
+
+            返回信息: {'returnCode': 200, 'success': True, 'data': {'orgCode': '8b7d7091d36bc4e950a4a1b68bab4178', 'filInfoCode': None, 'orgName': '昆明市官渡区阳光职业培训学校', 'socialCreditCode': '-1', 'unitAddress': '昆明市官渡区街道办事处季官社区第三居民小组云秀小巷官南城G区102号', 'contractPerson': '郑颖', 'contractPhone': '13312560156', 'isFil': 1, 'skillLevelIdentification': 8, 'professionalQualification': -1, 'specialAbility': 8, 'officialExamination': 8, 'codingStatus': 1}, 'returnMsg': '操作成功!', 'returnData': {}}  
+
+            

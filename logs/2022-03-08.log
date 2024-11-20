@@ -1,0 +1,66 @@
+
+2022-03-08 09:53:25,827 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-03-08 09:53:25,971 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/user/login  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'Content-Length': '56', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'data': {'password': 'j%252B%252FPBzyABP44lxZ5CgZK9Q%253D%253D', 'username': 'admin'}}  
+
+            返回信息: <Response [200]>  
+
+            
+
+2022-03-08 09:57:38,768 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-03-08 09:57:38,911 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/user/login  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'Content-Length': '56', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'data': {'password': 'j\\%2B\\%2FPBzyABP44lxZ5CgZK9Q\\%3D\\%3D', 'username': 'admin'}}  
+
+            返回信息: <Response [200]>  
+
+            
+
+2022-03-08 10:04:16,121 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-03-08 10:04:16,323 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/user/login  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'Content-Length': '56', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'data': {'password': 'j+/FPBzyABP44lxZ5CgZK9Q==', 'username': 'admin'}}  
+
+            返回信息: <Response [200]>  
+
+            
+
+2022-03-08 10:06:20,932 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-03-08 10:06:22,044 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/user/login  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'Content-Length': '56', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'data': {'password': 'j+/PBzyABP44lxZ5CgZK9Q==', 'username': 'admin'}}  
+
+            返回信息: <Response [200]>  
+
+            
+
+2022-03-08 10:57:11,689 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-03-08 10:57:11,849 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/user/login  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'Content-Length': '56', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'data': {'password': 'j+/PBzyABP44lxZ5CgZK9Q==', 'username': 'admin'}}  
+
+            返回信息: <Response [200]>  
+
+            
+
+2022-03-08 10:57:25,399 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-03-08 10:57:25,570 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/user/login  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'Content-Length': '56', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'data': {'password': 'j+/PBzyABP44lxZ5CgZK9Q==', 'username': 'admin'}}  
+
+            返回信息: <Response [200]>  
+
+            

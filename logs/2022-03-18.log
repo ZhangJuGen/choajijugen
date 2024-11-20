@@ -1,0 +1,490 @@
+
+2022-03-18 14:41:33,065 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-03-18 14:41:34,139 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/user/login  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'Content-Length': '56', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'data': {'password': '2/5ao/4bbFA9OK/YIOjjVA==', 'username': 'zhongli'}}  
+
+            返回信息: <Response [200]>  
+
+            
+
+2022-03-18 14:41:34,141 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\filView.yml
+
+2022-03-18 14:41:34,522 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/fil/view/filView  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'authorization_token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjdXJyZW50IjoxNjQ3NTg1OTM4NjI0LCJleHAiOjE2NDc1ODk1MzgsImlhdCI6MTY0NzU4NTkzOCwidXNlckNvZGUiOiIwMmZhYjVjYjZhNTc0YjcwOTk2ZjAwNzg2ZGM4YWVkMCJ9.dI2jJHYAoGszVcrTFSXLX5JYhTRKVFlrhDs36JGPahs', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}}  
+
+            返回信息: <Response [200]>  
+
+            
+
+2022-03-18 14:41:34,544 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-03-18 14:41:34,764 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/user/login  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'Content-Length': '56', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'data': {'password': '2/5ao/4bbFA9OK/YIOjjVA==', 'username': 'ruotuo'}}  
+
+            返回信息: <Response [200]>  
+
+            
+
+2022-03-18 14:41:34,767 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\filView.yml
+
+2022-03-18 14:41:35,176 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/fil/view/filView  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'authorization_token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjdXJyZW50IjoxNjQ3NTg1OTM5NDYzLCJleHAiOjE2NDc1ODk1MzksImlhdCI6MTY0NzU4NTkzOSwidXNlckNvZGUiOiI4ZDU1YjFlNjYxMzc0YmI5ODUzYWY4ODMwMWNjOTFkZSJ9.rY6o_SuCVTGY2QU4WM7dEHYND_bboU_FVs8gawNMDF0', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}}  
+
+            返回信息: <Response [200]>  
+
+            
+
+2022-03-18 14:41:35,181 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-03-18 14:41:35,442 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/user/login  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'Content-Length': '56', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'data': {'password': '2/5ao/4bbFA9OK/YIOjjVA==', 'username': 'azhen'}}  
+
+            返回信息: <Response [200]>  
+
+            
+
+2022-03-18 14:41:35,444 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\filView.yml
+
+2022-03-18 14:41:35,685 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/fil/view/filView  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'authorization_token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjdXJyZW50IjoxNjQ3NTg1OTQwMTM1LCJleHAiOjE2NDc1ODk1NDAsImlhdCI6MTY0NzU4NTk0MCwidXNlckNvZGUiOiI4YTlkNGI3ZDkwYzI0M2U0OTVhNjdiZjRjYTgxZTE3MCJ9.EDr0vjpuKY-YtVTK9YoQugLhVift7gi7WkS_8xPtAoM', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}}  
+
+            返回信息: <Response [200]>  
+
+            
+
+2022-03-18 14:45:06,720 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-03-18 14:45:07,214 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/user/login  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'Content-Length': '56', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'data': {'password': '2/5ao/4bbFA9OK/YIOjjVA==', 'username': 'zhongli'}}  
+
+            返回信息: <Response [200]>  
+
+            
+
+2022-03-18 14:45:07,217 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\filView.yml
+
+2022-03-18 14:45:07,363 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/fil/view/filView  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'authorization_token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjdXJyZW50IjoxNjQ3NTg2MTUxOTEwLCJleHAiOjE2NDc1ODk3NTEsImlhdCI6MTY0NzU4NjE1MiwidXNlckNvZGUiOiIwMmZhYjVjYjZhNTc0YjcwOTk2ZjAwNzg2ZGM4YWVkMCJ9.X3NrnkArGTcqrNi_mYpor3FN1wEsxXkND9YjO0btSSQ', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}}  
+
+            返回信息: <Response [200]>  
+
+            
+
+2022-03-18 14:45:07,368 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-03-18 14:45:07,885 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/user/login  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'Content-Length': '56', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'data': {'password': '2/5ao/4bbFA9OK/YIOjjVA==', 'username': 'ruotuo'}}  
+
+            返回信息: <Response [200]>  
+
+            
+
+2022-03-18 14:45:07,887 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\filView.yml
+
+2022-03-18 14:45:08,042 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/fil/view/filView  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'authorization_token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjdXJyZW50IjoxNjQ3NTg2MTUyNTYyLCJleHAiOjE2NDc1ODk3NTIsImlhdCI6MTY0NzU4NjE1MiwidXNlckNvZGUiOiI4ZDU1YjFlNjYxMzc0YmI5ODUzYWY4ODMwMWNjOTFkZSJ9.zMkumkA1DYrD-b6e4fKew9zOziLGQdB0iR2YelU0MSA', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}}  
+
+            返回信息: <Response [200]>  
+
+            
+
+2022-03-18 14:45:08,046 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-03-18 14:45:08,593 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/user/login  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'Content-Length': '56', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'data': {'password': '2/5ao/4bbFA9OK/YIOjjVA==', 'username': 'azhen'}}  
+
+            返回信息: <Response [200]>  
+
+            
+
+2022-03-18 14:45:08,595 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\filView.yml
+
+2022-03-18 14:45:08,772 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/fil/view/filView  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'authorization_token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjdXJyZW50IjoxNjQ3NTg2MTUzMDAzLCJleHAiOjE2NDc1ODk3NTMsImlhdCI6MTY0NzU4NjE1MywidXNlckNvZGUiOiI4YTlkNGI3ZDkwYzI0M2U0OTVhNjdiZjRjYTgxZTE3MCJ9.5VBdFAoegwR_Ak063L1wpqvRlXHjqmV4yA__S4cGNvs', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}}  
+
+            返回信息: <Response [200]>  
+
+            
+
+2022-03-18 14:58:51,249 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-03-18 14:58:52,658 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/user/login  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'Content-Length': '56', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'data': {'password': '2/5ao/4bbFA9OK/YIOjjVA==', 'username': 'zhongli'}}  
+
+            返回信息: <Response [200]>  
+
+            
+
+2022-03-18 14:58:52,660 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\filView.yml
+
+2022-03-18 14:58:54,896 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/fil/view/filView  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'authorization_token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjdXJyZW50IjoxNjQ3NTg2OTc3MTE5LCJleHAiOjE2NDc1OTA1NzcsImlhdCI6MTY0NzU4Njk3NywidXNlckNvZGUiOiIwMmZhYjVjYjZhNTc0YjcwOTk2ZjAwNzg2ZGM4YWVkMCJ9.r1fQytvSlfSWkj3PO0HaLOvE6RILKpHj5UcGMHntRek', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}}  
+
+            返回信息: <Response [200]>  
+
+            
+
+2022-03-18 14:59:21,589 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-03-18 14:59:27,643 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/user/login  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'Content-Length': '56', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'data': {'password': '2/5ao/4bbFA9OK/YIOjjVA==', 'username': 'zhongli'}}  
+
+            返回信息: <Response [200]>  
+
+            
+
+2022-03-18 14:59:27,646 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\filView.yml
+
+2022-03-18 14:59:28,044 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/fil/view/filView  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'authorization_token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjdXJyZW50IjoxNjQ3NTg3MDExNjM2LCJleHAiOjE2NDc1OTA2MTEsImlhdCI6MTY0NzU4NzAxMiwidXNlckNvZGUiOiIwMmZhYjVjYjZhNTc0YjcwOTk2ZjAwNzg2ZGM4YWVkMCJ9.ZzVQNgRAysWcTJnAhXArZTa8Vcev4s5ZfXUF_NMOUwc', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}}  
+
+            返回信息: <Response [200]>  
+
+            
+
+2022-03-18 15:00:24,432 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-03-18 15:00:24,643 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/user/login  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'Content-Length': '56', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'data': {'password': '2/5ao/4bbFA9OK/YIOjjVA==', 'username': 'zhongli'}}  
+
+            返回信息: {'returnCode': 200, 'success': True, 'data': {'authorizationToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjdXJyZW50IjoxNjQ3NTg3MDY5MzUwLCJleHAiOjE2NDc1OTA2NjksImlhdCI6MTY0NzU4NzA2OSwidXNlckNvZGUiOiIwMmZhYjVjYjZhNTc0YjcwOTk2ZjAwNzg2ZGM4YWVkMCJ9.Hi6qiy9UV75kzME4mhgNB9vUyQ_t_412LLXVatRsEOE', 'topCode': '-1'}, 'returnMsg': '操作成功!', 'planCode': None, 'planCodes': None, 'content': None, 'logIgnored': False}  
+
+            
+
+2022-03-18 15:00:24,646 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\filView.yml
+
+2022-03-18 15:00:25,255 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/fil/view/filView  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'authorization_token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjdXJyZW50IjoxNjQ3NTg3MDY5MzUwLCJleHAiOjE2NDc1OTA2NjksImlhdCI6MTY0NzU4NzA2OSwidXNlckNvZGUiOiIwMmZhYjVjYjZhNTc0YjcwOTk2ZjAwNzg2ZGM4YWVkMCJ9.Hi6qiy9UV75kzME4mhgNB9vUyQ_t_412LLXVatRsEOE', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}}  
+
+            返回信息: {'returnCode': 200, 'success': True, 'data': {'orgCode': 'a9af206d613748489ca665ae4d118850', 'filInfoCode': None, 'orgName': '临沧市技能鉴定报名机构', 'socialCreditCode': 'CA87TDLSQ13ZX', 'unitAddress': '浙江温州江南皮革厂', 'contractPerson': '黄鹤', 'contractPhone': '17896547785', 'isFil': 1, 'skillLevelIdentification': 8, 'professionalQualification': -1, 'specialAbility': 8, 'officialExamination': 8}, 'returnMsg': '操作成功!', 'planCode': None, 'planCodes': None, 'content': None, 'logIgnored': False}  
+
+            
+
+2022-03-18 15:15:55,623 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-03-18 15:15:56,309 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/user/login  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'Content-Length': '56', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'data': {'password': '2/5ao/4bbFA9OK/YIOjjVA==', 'username': 'zhongli'}}  
+
+            返回信息: {'returnCode': 200, 'success': True, 'data': {'authorizationToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjdXJyZW50IjoxNjQ3NTg4MDAwNzg3LCJleHAiOjE2NDc1OTE2MDAsImlhdCI6MTY0NzU4ODAwMSwidXNlckNvZGUiOiIwMmZhYjVjYjZhNTc0YjcwOTk2ZjAwNzg2ZGM4YWVkMCJ9.VkkjtJ2_MpYIWebKOZdB9otOEo0MlIAcQhGZaHC5cMQ', 'topCode': '-1'}, 'returnMsg': '操作成功!', 'planCode': None, 'planCodes': None, 'content': None, 'logIgnored': False}  
+
+            
+
+2022-03-18 15:24:36,789 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-03-18 15:24:37,131 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/user/login  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'Content-Length': '56', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'data': {'password': '2/5ao/4bbFA9OK/YIOjjVA==', 'username': 'zhongli'}}  
+
+            返回信息: {'returnCode': 200, 'success': True, 'data': {'authorizationToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjdXJyZW50IjoxNjQ3NTg4NTIxNzU4LCJleHAiOjE2NDc1OTIxMjEsImlhdCI6MTY0NzU4ODUyMSwidXNlckNvZGUiOiIwMmZhYjVjYjZhNTc0YjcwOTk2ZjAwNzg2ZGM4YWVkMCJ9.80ll75P1AigVsVjrceu3Kv6uzY_VJ69q4Y-y5GTWbqs', 'topCode': '-1'}, 'returnMsg': '操作成功!', 'planCode': None, 'planCodes': None, 'content': None, 'logIgnored': False}  
+
+            
+
+2022-03-18 15:24:37,135 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\filView.yml
+
+2022-03-18 15:24:37,304 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/fil/view/filView  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'authorization_token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjdXJyZW50IjoxNjQ3NTg4NTIxNzU4LCJleHAiOjE2NDc1OTIxMjEsImlhdCI6MTY0NzU4ODUyMSwidXNlckNvZGUiOiIwMmZhYjVjYjZhNTc0YjcwOTk2ZjAwNzg2ZGM4YWVkMCJ9.80ll75P1AigVsVjrceu3Kv6uzY_VJ69q4Y-y5GTWbqs', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}}  
+
+            返回信息: {'returnCode': 200, 'success': True, 'data': {'orgCode': 'a9af206d613748489ca665ae4d118850', 'filInfoCode': None, 'orgName': '临沧市技能鉴定报名机构', 'socialCreditCode': 'CA87TDLSQ13ZX', 'unitAddress': '浙江温州江南皮革厂', 'contractPerson': '黄鹤', 'contractPhone': '17896547785', 'isFil': 1, 'skillLevelIdentification': 8, 'professionalQualification': -1, 'specialAbility': 8, 'officialExamination': 8}, 'returnMsg': '操作成功!', 'planCode': None, 'planCodes': None, 'content': None, 'logIgnored': False}  
+
+            
+
+2022-03-18 15:28:03,510 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-03-18 15:28:03,980 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/user/login  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'Content-Length': '56', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'data': {'password': '2/5ao/4bbFA9OK/YIOjjVA==', 'username': 'zhongli'}}  
+
+            返回信息: {'returnCode': 200, 'success': True, 'data': {'authorizationToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjdXJyZW50IjoxNjQ3NTg4NzI4NjQ5LCJleHAiOjE2NDc1OTIzMjgsImlhdCI6MTY0NzU4ODcyOCwidXNlckNvZGUiOiIwMmZhYjVjYjZhNTc0YjcwOTk2ZjAwNzg2ZGM4YWVkMCJ9.z7yMuztkE0-ewDgzXXtmlmIwKrMyXvlqSvySHBw06Cg', 'topCode': '-1'}, 'returnMsg': '操作成功!', 'planCode': None, 'planCodes': None, 'content': None, 'logIgnored': False}  
+
+            
+
+2022-03-18 15:28:03,983 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\filView.yml
+
+2022-03-18 15:28:07,141 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/fil/view/filView  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'authorization_token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjdXJyZW50IjoxNjQ3NTg4NzI4NjQ5LCJleHAiOjE2NDc1OTIzMjgsImlhdCI6MTY0NzU4ODcyOCwidXNlckNvZGUiOiIwMmZhYjVjYjZhNTc0YjcwOTk2ZjAwNzg2ZGM4YWVkMCJ9.z7yMuztkE0-ewDgzXXtmlmIwKrMyXvlqSvySHBw06Cg', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}}  
+
+            返回信息: {'returnCode': 200, 'success': True, 'data': {'orgCode': 'a9af206d613748489ca665ae4d118850', 'filInfoCode': None, 'orgName': '临沧市技能鉴定报名机构', 'socialCreditCode': 'CA87TDLSQ13ZX', 'unitAddress': '浙江温州江南皮革厂', 'contractPerson': '黄鹤', 'contractPhone': '17896547785', 'isFil': 1, 'skillLevelIdentification': 8, 'professionalQualification': -1, 'specialAbility': 8, 'officialExamination': 8}, 'returnMsg': '操作成功!', 'planCode': None, 'planCodes': None, 'content': None, 'logIgnored': False}  
+
+            
+
+2022-03-18 15:28:33,546 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-03-18 15:28:34,027 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/user/login  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'Content-Length': '56', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'data': {'password': '2/5ao/4bbFA9OK/YIOjjVA==', 'username': 'zhongli'}}  
+
+            返回信息: {'returnCode': 200, 'success': True, 'data': {'authorizationToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjdXJyZW50IjoxNjQ3NTg4NzU4NDc0LCJleHAiOjE2NDc1OTIzNTgsImlhdCI6MTY0NzU4ODc1OCwidXNlckNvZGUiOiIwMmZhYjVjYjZhNTc0YjcwOTk2ZjAwNzg2ZGM4YWVkMCJ9.JZ2ZWczuB7HPYu2tAHfs4ipUB76IgnCGcqNtfSSgjd8', 'topCode': '-1'}, 'returnMsg': '操作成功!', 'planCode': None, 'planCodes': None, 'content': None, 'logIgnored': False}  
+
+            
+
+2022-03-18 15:28:34,030 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\filView.yml
+
+2022-03-18 15:28:34,631 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/fil/view/filView  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'authorization_token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjdXJyZW50IjoxNjQ3NTg4NzU4NDc0LCJleHAiOjE2NDc1OTIzNTgsImlhdCI6MTY0NzU4ODc1OCwidXNlckNvZGUiOiIwMmZhYjVjYjZhNTc0YjcwOTk2ZjAwNzg2ZGM4YWVkMCJ9.JZ2ZWczuB7HPYu2tAHfs4ipUB76IgnCGcqNtfSSgjd8', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}}  
+
+            返回信息: {'returnCode': 200, 'success': True, 'data': {'orgCode': 'a9af206d613748489ca665ae4d118850', 'filInfoCode': None, 'orgName': '临沧市技能鉴定报名机构', 'socialCreditCode': 'CA87TDLSQ13ZX', 'unitAddress': '浙江温州江南皮革厂', 'contractPerson': '黄鹤', 'contractPhone': '17896547785', 'isFil': 1, 'skillLevelIdentification': 8, 'professionalQualification': -1, 'specialAbility': 8, 'officialExamination': 8}, 'returnMsg': '操作成功!', 'planCode': None, 'planCodes': None, 'content': None, 'logIgnored': False}  
+
+            
+
+2022-03-18 15:29:21,870 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-03-18 15:29:23,036 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/user/login  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'Content-Length': '56', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'data': {'password': '2/5ao/4bbFA9OK/YIOjjVA==', 'username': 'zhongli'}}  
+
+            返回信息: {'returnCode': 200, 'success': True, 'data': {'authorizationToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjdXJyZW50IjoxNjQ3NTg4ODA2ODIxLCJleHAiOjE2NDc1OTI0MDYsImlhdCI6MTY0NzU4ODgwNywidXNlckNvZGUiOiIwMmZhYjVjYjZhNTc0YjcwOTk2ZjAwNzg2ZGM4YWVkMCJ9.gRHgT7fpXQxSksASrqbV6SwYNBDx8ZDJyT9-VwtGA88', 'topCode': '-1'}, 'returnMsg': '操作成功!', 'planCode': None, 'planCodes': None, 'content': None, 'logIgnored': False}  
+
+            
+
+2022-03-18 15:29:23,039 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\filView.yml
+
+2022-03-18 15:29:23,165 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/fil/view/filView  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'authorization_token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjdXJyZW50IjoxNjQ3NTg4ODA2ODIxLCJleHAiOjE2NDc1OTI0MDYsImlhdCI6MTY0NzU4ODgwNywidXNlckNvZGUiOiIwMmZhYjVjYjZhNTc0YjcwOTk2ZjAwNzg2ZGM4YWVkMCJ9.gRHgT7fpXQxSksASrqbV6SwYNBDx8ZDJyT9-VwtGA88', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}}  
+
+            返回信息: {'returnCode': 200, 'success': True, 'data': {'orgCode': 'a9af206d613748489ca665ae4d118850', 'filInfoCode': None, 'orgName': '临沧市技能鉴定报名机构', 'socialCreditCode': 'CA87TDLSQ13ZX', 'unitAddress': '浙江温州江南皮革厂', 'contractPerson': '黄鹤', 'contractPhone': '17896547785', 'isFil': 1, 'skillLevelIdentification': 8, 'professionalQualification': -1, 'specialAbility': 8, 'officialExamination': 8}, 'returnMsg': '操作成功!', 'planCode': None, 'planCodes': None, 'content': None, 'logIgnored': False}  
+
+            
+
+2022-03-18 15:29:54,221 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-03-18 15:29:54,287 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/user/login  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'Content-Length': '56', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'data': {'password': '2/5ao/4bbFA9OK/YIOjjVA==', 'username': 'zhongli'}}  
+
+            返回信息: {'returnCode': 200, 'success': True, 'data': {'authorizationToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjdXJyZW50IjoxNjQ3NTg4ODM5MDUwLCJleHAiOjE2NDc1OTI0MzksImlhdCI6MTY0NzU4ODgzOSwidXNlckNvZGUiOiIwMmZhYjVjYjZhNTc0YjcwOTk2ZjAwNzg2ZGM4YWVkMCJ9.CZGR5X3waiwHdoiDwp7h_KMhAq7CLu2I-Al5xqn2DFg', 'topCode': '-1'}, 'returnMsg': '操作成功!', 'planCode': None, 'planCodes': None, 'content': None, 'logIgnored': False}  
+
+            
+
+2022-03-18 15:29:54,290 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\filView.yml
+
+2022-03-18 15:29:54,344 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/fil/view/filView  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'authorization_token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjdXJyZW50IjoxNjQ3NTg4ODM5MDUwLCJleHAiOjE2NDc1OTI0MzksImlhdCI6MTY0NzU4ODgzOSwidXNlckNvZGUiOiIwMmZhYjVjYjZhNTc0YjcwOTk2ZjAwNzg2ZGM4YWVkMCJ9.CZGR5X3waiwHdoiDwp7h_KMhAq7CLu2I-Al5xqn2DFg', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}}  
+
+            返回信息: {'returnCode': 200, 'success': True, 'data': {'orgCode': 'a9af206d613748489ca665ae4d118850', 'filInfoCode': None, 'orgName': '临沧市技能鉴定报名机构', 'socialCreditCode': 'CA87TDLSQ13ZX', 'unitAddress': '浙江温州江南皮革厂', 'contractPerson': '黄鹤', 'contractPhone': '17896547785', 'isFil': 1, 'skillLevelIdentification': 8, 'professionalQualification': -1, 'specialAbility': 8, 'officialExamination': 8}, 'returnMsg': '操作成功!', 'planCode': None, 'planCodes': None, 'content': None, 'logIgnored': False}  
+
+            
+
+2022-03-18 15:33:06,642 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-03-18 15:33:06,699 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/user/login  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'Content-Length': '56', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'data': {'password': '2/5ao/4bbFA9OK/YIOjjVA==', 'username': 'zhongli'}}  
+
+            返回信息: {'returnCode': 200, 'success': True, 'data': {'authorizationToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjdXJyZW50IjoxNjQ3NTg5MDMxNDYzLCJleHAiOjE2NDc1OTI2MzEsImlhdCI6MTY0NzU4OTAzMSwidXNlckNvZGUiOiIwMmZhYjVjYjZhNTc0YjcwOTk2ZjAwNzg2ZGM4YWVkMCJ9.fRPVeTyw6aZPB6Xd5FSlDBp_OJYGJjr4IUwdELTCj6k', 'topCode': '-1'}, 'returnMsg': '操作成功!', 'planCode': None, 'planCodes': None, 'content': None, 'logIgnored': False}  
+
+            
+
+2022-03-18 15:33:06,702 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\filView.yml
+
+2022-03-18 15:33:06,756 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/fil/view/filView  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'authorization_token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjdXJyZW50IjoxNjQ3NTg5MDMxNDYzLCJleHAiOjE2NDc1OTI2MzEsImlhdCI6MTY0NzU4OTAzMSwidXNlckNvZGUiOiIwMmZhYjVjYjZhNTc0YjcwOTk2ZjAwNzg2ZGM4YWVkMCJ9.fRPVeTyw6aZPB6Xd5FSlDBp_OJYGJjr4IUwdELTCj6k', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}}  
+
+            返回信息: {'returnCode': 200, 'success': True, 'data': {'orgCode': 'a9af206d613748489ca665ae4d118850', 'filInfoCode': None, 'orgName': '临沧市技能鉴定报名机构', 'socialCreditCode': 'CA87TDLSQ13ZX', 'unitAddress': '浙江温州江南皮革厂', 'contractPerson': '黄鹤', 'contractPhone': '17896547785', 'isFil': 1, 'skillLevelIdentification': 8, 'professionalQualification': -1, 'specialAbility': 8, 'officialExamination': 8}, 'returnMsg': '操作成功!', 'planCode': None, 'planCodes': None, 'content': None, 'logIgnored': False}  
+
+            
+
+2022-03-18 15:35:11,857 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-03-18 15:35:13,023 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/user/login  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'Content-Length': '56', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'data': {'password': '2/5ao/4bbFA9OK/YIOjjVA==', 'username': 'zhongli'}}  
+
+            返回信息: {'returnCode': 200, 'success': True, 'data': {'authorizationToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjdXJyZW50IjoxNjQ3NTg5MTU3NTA5LCJleHAiOjE2NDc1OTI3NTcsImlhdCI6MTY0NzU4OTE1NywidXNlckNvZGUiOiIwMmZhYjVjYjZhNTc0YjcwOTk2ZjAwNzg2ZGM4YWVkMCJ9.qkSe2EFmdHYg-58hC7JtYM6Z5J1vbMDRtQtavETKHNY', 'topCode': '-1'}, 'returnMsg': '操作成功!', 'planCode': None, 'planCodes': None, 'content': None, 'logIgnored': False}  
+
+            
+
+2022-03-18 15:35:13,026 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\filView.yml
+
+2022-03-18 15:35:13,350 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/fil/view/filView  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'authorization_token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjdXJyZW50IjoxNjQ3NTg5MTU3NTA5LCJleHAiOjE2NDc1OTI3NTcsImlhdCI6MTY0NzU4OTE1NywidXNlckNvZGUiOiIwMmZhYjVjYjZhNTc0YjcwOTk2ZjAwNzg2ZGM4YWVkMCJ9.qkSe2EFmdHYg-58hC7JtYM6Z5J1vbMDRtQtavETKHNY', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}}  
+
+            返回信息: {'returnCode': 200, 'success': True, 'data': {'orgCode': 'a9af206d613748489ca665ae4d118850', 'filInfoCode': None, 'orgName': '临沧市技能鉴定报名机构', 'socialCreditCode': 'CA87TDLSQ13ZX', 'unitAddress': '浙江温州江南皮革厂', 'contractPerson': '黄鹤', 'contractPhone': '17896547785', 'isFil': 1, 'skillLevelIdentification': 8, 'professionalQualification': -1, 'specialAbility': 8, 'officialExamination': 8}, 'returnMsg': '操作成功!', 'planCode': None, 'planCodes': None, 'content': None, 'logIgnored': False}  
+
+            
+
+2022-03-18 15:51:08,022 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-03-18 15:51:12,408 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/user/login  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'Content-Length': '56', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'data': {'password': '2/5ao/4bbFA9OK/YIOjjVA==', 'username': 'zhongli'}}  
+
+            返回信息: {'returnCode': 200, 'success': True, 'data': {'authorizationToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjdXJyZW50IjoxNjQ3NTkwMTE2ODA0LCJleHAiOjE2NDc1OTM3MTYsImlhdCI6MTY0NzU5MDExNywidXNlckNvZGUiOiIwMmZhYjVjYjZhNTc0YjcwOTk2ZjAwNzg2ZGM4YWVkMCJ9.qq5_i_RdRf94WpBH_ValJVeP71oEmLIfObaihzlO-rg', 'topCode': '-1'}, 'returnMsg': '操作成功!', 'planCode': None, 'planCodes': None, 'content': None, 'logIgnored': False}  
+
+            
+
+2022-03-18 15:51:12,411 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\filView.yml
+
+2022-03-18 15:51:12,555 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/fil/view/filView  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'authorization_token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjdXJyZW50IjoxNjQ3NTkwMTE2ODA0LCJleHAiOjE2NDc1OTM3MTYsImlhdCI6MTY0NzU5MDExNywidXNlckNvZGUiOiIwMmZhYjVjYjZhNTc0YjcwOTk2ZjAwNzg2ZGM4YWVkMCJ9.qq5_i_RdRf94WpBH_ValJVeP71oEmLIfObaihzlO-rg', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}}  
+
+            返回信息: {'returnCode': 200, 'success': True, 'data': {'orgCode': 'a9af206d613748489ca665ae4d118850', 'filInfoCode': None, 'orgName': '临沧市技能鉴定报名机构', 'socialCreditCode': 'CA87TDLSQ13ZX', 'unitAddress': '浙江温州江南皮革厂', 'contractPerson': '黄鹤', 'contractPhone': '17896547785', 'isFil': 1, 'skillLevelIdentification': 8, 'professionalQualification': -1, 'specialAbility': 8, 'officialExamination': 8}, 'returnMsg': '操作成功!', 'planCode': None, 'planCodes': None, 'content': None, 'logIgnored': False}  
+
+            
+
+2022-03-18 15:51:12,556 备案查看 INFO 备案查看接口异常：assert 200 == 201
+ +  where 200 = json_search({'content': None, 'data': {'contractPerson': '黄鹤', 'contractPhone': '17896547785', 'filInfoCode': None, 'isFil': 1, ...}, 'logIgnored': False, 'planCode': None, ...}, 'returnCode')
+
+2022-03-18 15:51:58,877 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-03-18 15:51:59,505 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/user/login  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'Content-Length': '56', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'data': {'password': '2/5ao/4bbFA9OK/YIOjjVA==', 'username': 'zhongli'}}  
+
+            返回信息: {'returnCode': 200, 'success': True, 'data': {'authorizationToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjdXJyZW50IjoxNjQ3NTkwMTYzODQ1LCJleHAiOjE2NDc1OTM3NjMsImlhdCI6MTY0NzU5MDE2NCwidXNlckNvZGUiOiIwMmZhYjVjYjZhNTc0YjcwOTk2ZjAwNzg2ZGM4YWVkMCJ9.WZrAd2c3hzMM7J6slqigXIPtl57eRPlSgHWUnYMYsd8', 'topCode': '-1'}, 'returnMsg': '操作成功!', 'planCode': None, 'planCodes': None, 'content': None, 'logIgnored': False}  
+
+            
+
+2022-03-18 15:51:59,507 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\filView.yml
+
+2022-03-18 15:51:59,984 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/fil/view/filView  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'authorization_token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjdXJyZW50IjoxNjQ3NTkwMTYzODQ1LCJleHAiOjE2NDc1OTM3NjMsImlhdCI6MTY0NzU5MDE2NCwidXNlckNvZGUiOiIwMmZhYjVjYjZhNTc0YjcwOTk2ZjAwNzg2ZGM4YWVkMCJ9.WZrAd2c3hzMM7J6slqigXIPtl57eRPlSgHWUnYMYsd8', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}}  
+
+            返回信息: {'returnCode': 200, 'success': True, 'data': {'orgCode': 'a9af206d613748489ca665ae4d118850', 'filInfoCode': None, 'orgName': '临沧市技能鉴定报名机构', 'socialCreditCode': 'CA87TDLSQ13ZX', 'unitAddress': '浙江温州江南皮革厂', 'contractPerson': '黄鹤', 'contractPhone': '17896547785', 'isFil': 1, 'skillLevelIdentification': 8, 'professionalQualification': -1, 'specialAbility': 8, 'officialExamination': 8}, 'returnMsg': '操作成功!', 'planCode': None, 'planCodes': None, 'content': None, 'logIgnored': False}  
+
+            
+
+2022-03-18 16:03:57,049 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-03-18 16:03:57,509 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/user/login  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'Content-Length': '56', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'data': {'password': '2/5ao/4bbFA9OK/YIOjjVA==', 'username': 'zhongli'}}  
+
+            返回信息: {'returnCode': 200, 'success': True, 'data': {'authorizationToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjdXJyZW50IjoxNjQ3NTkwODgxOTIzLCJleHAiOjE2NDc1OTQ0ODEsImlhdCI6MTY0NzU5MDg4MiwidXNlckNvZGUiOiIwMmZhYjVjYjZhNTc0YjcwOTk2ZjAwNzg2ZGM4YWVkMCJ9.LZj9rK0TefVFuMavihRrsOXHRRerNv8HP8iugeveTAA', 'topCode': '-1'}, 'returnMsg': '操作成功!', 'planCode': None, 'planCodes': None, 'content': None, 'logIgnored': False}  
+
+            
+
+2022-03-18 16:04:18,667 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-03-18 16:04:19,141 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/user/login  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'Content-Length': '56', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'data': {'password': '2/5ao/4bbFA9OK/YIOjjVA==', 'username': 'zhongli'}}  
+
+            返回信息: {'returnCode': 200, 'success': True, 'data': {'authorizationToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjdXJyZW50IjoxNjQ3NTkwOTAzNTQ4LCJleHAiOjE2NDc1OTQ1MDMsImlhdCI6MTY0NzU5MDkwMywidXNlckNvZGUiOiIwMmZhYjVjYjZhNTc0YjcwOTk2ZjAwNzg2ZGM4YWVkMCJ9.S59iliXuUqOFpNFm-6xgDxyxngRua3-FiZ57JrbTKlc', 'topCode': '-1'}, 'returnMsg': '操作成功!', 'planCode': None, 'planCodes': None, 'content': None, 'logIgnored': False}  
+
+            
+
+2022-03-18 16:05:45,139 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-03-18 16:05:45,349 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/user/login  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'Content-Length': '56', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'data': {'password': '2/5ao/4bbFA9OK/YIOjjVA==', 'username': 'zhongli'}}  
+
+            返回信息: {'returnCode': 200, 'success': True, 'data': {'authorizationToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjdXJyZW50IjoxNjQ3NTkwOTg5OTkzLCJleHAiOjE2NDc1OTQ1ODksImlhdCI6MTY0NzU5MDk5MCwidXNlckNvZGUiOiIwMmZhYjVjYjZhNTc0YjcwOTk2ZjAwNzg2ZGM4YWVkMCJ9.vneb7SuIb9rdYRJzhV5RVPYPTQiko2vu3Hmc1Pb7nCc', 'topCode': '-1'}, 'returnMsg': '操作成功!', 'planCode': None, 'planCodes': None, 'content': None, 'logIgnored': False}  
+
+            
+
+2022-03-18 16:05:45,350 登陆接口 INFO 登陆接口异常：assert 200 == 201
+ +  where 200 = json_search({'content': None, 'data': {'authorizationToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjdXJyZW50IjoxNjQ3NTkwOTg5OTk...GM4YWVkMCJ9.vneb7SuIb9rdYRJzhV5RVPYPTQiko2vu3Hmc1Pb7nCc', 'topCode': '-1'}, 'logIgnored': False, 'planCode': None, ...}, 'returnCode')
+
+2022-03-18 16:06:11,122 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-03-18 16:06:11,361 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/user/login  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'Content-Length': '56', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'data': {'password': '2/5ao/4bbFA9OK/YIOjjVA==', 'username': 'zhongli'}}  
+
+            返回信息: {'returnCode': 200, 'success': True, 'data': {'authorizationToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjdXJyZW50IjoxNjQ3NTkxMDE2MDA0LCJleHAiOjE2NDc1OTQ2MTYsImlhdCI6MTY0NzU5MTAxNiwidXNlckNvZGUiOiIwMmZhYjVjYjZhNTc0YjcwOTk2ZjAwNzg2ZGM4YWVkMCJ9.jwbsMhEgUvZvY_bdNlYM433r5hCP8IAvcV4dV9M1-fQ', 'topCode': '-1'}, 'returnMsg': '操作成功!', 'planCode': None, 'planCodes': None, 'content': None, 'logIgnored': False}  
+
+            
+
+2022-03-18 16:06:30,370 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-03-18 16:06:31,940 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/user/login  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'Content-Length': '56', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'data': {'password': '2/5ao/4bbFA9OK/YIOjjVA==', 'username': 'zhongli'}}  
+
+            返回信息: {'returnCode': 200, 'success': True, 'data': {'authorizationToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjdXJyZW50IjoxNjQ3NTkxMDM1NzYxLCJleHAiOjE2NDc1OTQ2MzUsImlhdCI6MTY0NzU5MTAzNiwidXNlckNvZGUiOiIwMmZhYjVjYjZhNTc0YjcwOTk2ZjAwNzg2ZGM4YWVkMCJ9.Y27MkbSxqFUxbHr7EqnzLqqlle4xLlCSWPZ7FIcGgek', 'topCode': '-1'}, 'returnMsg': '操作成功!', 'planCode': None, 'planCodes': None, 'content': None, 'logIgnored': False}  
+
+            
+
+2022-03-18 16:07:05,463 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-03-18 16:07:07,209 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/user/login  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'Content-Length': '56', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'data': {'password': '2/5ao/4bbFA9OK/YIOjjVA==', 'username': 'zhongli'}}  
+
+            返回信息: {'returnCode': 200, 'success': True, 'data': {'authorizationToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjdXJyZW50IjoxNjQ3NTkxMDcxNTY2LCJleHAiOjE2NDc1OTQ2NzEsImlhdCI6MTY0NzU5MTA3MSwidXNlckNvZGUiOiIwMmZhYjVjYjZhNTc0YjcwOTk2ZjAwNzg2ZGM4YWVkMCJ9.lVEVslhAYi0pKn6fFQCn959-aJB6_DOoG7PV73CIlsM', 'topCode': '-1'}, 'returnMsg': '操作成功!', 'planCode': None, 'planCodes': None, 'content': None, 'logIgnored': False}  
+
+            
+
+2022-03-18 16:07:07,211 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\filView.yml
+
+2022-03-18 16:07:17,198 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/fil/view/filView  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'authorization_token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjdXJyZW50IjoxNjQ3NTkxMDcxNTY2LCJleHAiOjE2NDc1OTQ2NzEsImlhdCI6MTY0NzU5MTA3MSwidXNlckNvZGUiOiIwMmZhYjVjYjZhNTc0YjcwOTk2ZjAwNzg2ZGM4YWVkMCJ9.lVEVslhAYi0pKn6fFQCn959-aJB6_DOoG7PV73CIlsM', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}}  
+
+            返回信息: {'returnCode': 200, 'success': True, 'data': {'orgCode': 'a9af206d613748489ca665ae4d118850', 'filInfoCode': None, 'orgName': '临沧市技能鉴定报名机构', 'socialCreditCode': 'CA87TDLSQ13ZX', 'unitAddress': '浙江温州江南皮革厂', 'contractPerson': '黄鹤', 'contractPhone': '17896547785', 'isFil': 1, 'skillLevelIdentification': 8, 'professionalQualification': -1, 'specialAbility': 8, 'officialExamination': 8}, 'returnMsg': '操作成功!', 'planCode': None, 'planCodes': None, 'content': None, 'logIgnored': False}  
+
+            

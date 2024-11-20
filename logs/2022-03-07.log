@@ -1,0 +1,283 @@
+
+2022-03-07 17:11:38,061 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-03-07 17:11:38,207 接口测试 INFO 
+            请求地址：http://222.247.54.78:9780/ynjt-manager-v2//dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/user/login  
+
+            请求参数：{'headers': {'Content-Type': 'application/x-www-form-urlencoded', 'Proxy-Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'data': {'username': 'zsd1', 'password': '2%2F5ao%2F4bbFA9OK%2FYIOjjVA%3D%3D'}}  
+
+            返回信息: <Response [200]>  
+
+            
+
+2022-03-07 17:12:25,803 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-03-07 17:12:25,936 接口测试 INFO 
+            请求地址：http://222.247.54.78:9780/ynjt-manager-v2//dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/user/login  
+
+            请求参数：{'headers': {'Content-Type': 'application/x-www-form-urlencoded', 'Proxy-Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'data': {'username': 'zsd1', 'password': '2%2F5ao%2F4bbFA9OK%2FYIOjjVA%3D%3D'}}  
+
+            返回信息: <Response [200]>  
+
+            
+
+2022-03-07 17:13:47,043 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-03-07 17:13:47,162 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/user/login  
+
+            请求参数：{'headers': {'Content-Type': 'application/x-www-form-urlencoded', 'Proxy-Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'data': {'username': 'zsd1', 'password': '2%2F5ao%2F4bbFA9OK%2FYIOjjVA%3D%3D'}}  
+
+            返回信息: <Response [200]>  
+
+            
+
+2022-03-07 17:15:26,737 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-03-07 17:15:26,826 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/user/login  
+
+            请求参数：{'headers': {'Content-Type': 'application/x-www-form-urlencoded', 'Proxy-Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'data': {'username': 'admin', 'password': 'j%2B%2FPBzyABP44lxZ5CgZK9Q%3D%3D'}}  
+
+            返回信息: <Response [200]>  
+
+            
+
+2022-03-07 17:16:41,295 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-03-07 17:16:41,382 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/user/login  
+
+            请求参数：{'headers': {'Content-Type': 'application/x-www-form-urlencoded', 'Proxy-Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'data': {'password': 'admin', 'username': 'j%2B%2FPBzyABP44lxZ5CgZK9Q%3D%3D'}}  
+
+            返回信息: <Response [200]>  
+
+            
+
+2022-03-07 17:17:51,500 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-03-07 17:17:51,596 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/user/login  
+
+            请求参数：{'headers': {'Content-Type': 'application/x-www-form-urlencoded', 'Proxy-Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'data': {'password': 'j%2B%2FPBzyABP44lxZ5CgZK9Q%3D%3D', 'username': 'admin'}}  
+
+            返回信息: <Response [200]>  
+
+            
+
+2022-03-07 17:19:00,159 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-03-07 17:19:00,250 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/user/login  
+
+            请求参数：{'headers': {'Content-Type': 'application/x-www-form-urlencoded', 'Proxy-Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'data': {'password': 'j%2B%2FPBzyABP44lxZ5CgZK9Q%3D%3D', 'username': 'admin'}}  
+
+            返回信息: <Response [200]>  
+
+            
+
+2022-03-07 17:21:11,675 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-03-07 17:21:11,680 调用接口时报错 ERROR Value for header {Content-Length: 56} must be of type str or bytes, not <class 'int'>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\requests\utils.py", line 977, in check_header_validity
+    if not pat.match(value):
+TypeError: expected string or bytes-like object
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:/zjg/laodaomeidan-master/base/base_requests.py", line 37, in send_requests
+    res = requests.request(method=method, url=url, **req)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\requests\api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\requests\sessions.py", line 528, in request
+    prep = self.prepare_request(req)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\requests\sessions.py", line 466, in prepare_request
+    hooks=merge_hooks(request.hooks, self.hooks),
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\requests\models.py", line 317, in prepare
+    self.prepare_headers(headers)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\requests\models.py", line 451, in prepare_headers
+    check_header_validity(header)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\requests\utils.py", line 981, in check_header_validity
+    "bytes, not %s" % (name, value, type(value)))
+requests.exceptions.InvalidHeader: Value for header {Content-Length: 56} must be of type str or bytes, not <class 'int'>
+
+2022-03-07 17:24:05,910 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-03-07 17:24:06,005 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/user/login  
+
+            请求参数：{'headers': {'Content-Length': '56', 'Content-Type': 'application/x-www-form-urlencoded', 'Proxy-Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'data': {'password': 'j%2B%2FPBzyABP44lxZ5CgZK9Q%3D%3D', 'username': 'admin'}}  
+
+            返回信息: <Response [200]>  
+
+            
+
+2022-03-07 17:25:57,091 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-03-07 17:25:57,190 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/user/login  
+
+            请求参数：{'headers': {'Content-Length': '56', 'Content-Type': 'application/x-www-form-urlencoded', 'Accept': 'application/json, text/plain, */*', 'Proxy-Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'data': {'password': 'j%2B%2FPBzyABP44lxZ5CgZK9Q%3D%3D', 'username': 'admin'}}  
+
+            返回信息: <Response [200]>  
+
+            
+
+2022-03-07 17:26:33,627 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-03-07 17:26:33,719 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/user/login  
+
+            请求参数：{'headers': {'Content-Length': '56', 'Content-Type': 'application/x-www-form-urlencoded', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'Proxy-Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'data': {'password': 'j%2B%2FPBzyABP44lxZ5CgZK9Q%3D%3D', 'username': 'admin'}}  
+
+            返回信息: <Response [200]>  
+
+            
+
+2022-03-07 17:27:36,085 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-03-07 17:29:32,400 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-03-07 17:29:32,468 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/user/login  
+
+            请求参数：{'headers': {'Content-Length': '56', 'Content-Type': 'application/x-www-form-urlencoded', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'Proxy-Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'json': {'password': 'j%2B%2FPBzyABP44lxZ5CgZK9Q%3D%3D', 'username': 'admin'}}  
+
+            返回信息: <Response [200]>  
+
+            
+
+2022-03-07 17:32:15,860 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-03-07 17:32:15,971 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/user/login  
+
+            请求参数：{'headers': {'Content-Length': '56', 'Content-Type': 'application/x-www-form-urlencoded', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'Proxy-Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'data': {'password': 'j+/PBzyABP44lxZ5CgZK9Q==', 'username': 'admin'}}  
+
+            返回信息: <Response [200]>  
+
+            
+
+2022-03-07 17:33:40,101 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-03-07 17:33:40,196 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/user/login  
+
+            请求参数：{'headers': {'Content-Length': '56', 'Content-Type': 'application/x-www-form-urlencoded', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'Proxy-Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'data': {'password': '2%2F5ao%2F4bbFA9OK%2FYIOjjVA%3D%3D', 'username': 'zsd1'}}  
+
+            返回信息: <Response [200]>  
+
+            
+
+2022-03-07 17:36:37,140 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-03-07 17:36:37,234 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/user/login  
+
+            请求参数：{'headers': {'Content-Length': '56', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'Proxy-Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'data': {'password': '2%2F5ao%2F4bbFA9OK%2FYIOjjVA%3D%3D', 'username': 'zsd1'}}  
+
+            返回信息: <Response [200]>  
+
+            
+
+2022-03-07 17:40:22,022 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-03-07 17:40:22,120 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/user/login  
+
+            请求参数：{'headers': {'Content-Length': '56', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'Proxy-Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'data': {'password': '2%2F5ao%2F4bbFA9OK%2FYIOjjVA%3D%3D', 'username': 'zsd1'}}  
+
+            返回信息: <Response [200]>  
+
+            
+
+2022-03-07 17:40:43,878 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-03-07 17:40:43,921 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/user/login  
+
+            请求参数：{'headers': {'Content-Length': '56', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'Proxy-Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'data': {'password': '2%2F5ao%2F4bbFA9OK%2FYIOjjVA%3D%3D', 'username': 'zsd1'}}  
+
+            返回信息: <Response [200]>  
+
+            
+
+2022-03-07 17:42:26,861 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-03-07 17:42:26,905 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/user/login  
+
+            请求参数：{'headers': {'Content-Length': '56', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'Proxy-Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'data': {'password': '2%2F5ao%2F4bbFA9OK%2FYIOjjVA%3D%3D', 'username': 'zsd1'}}  
+
+            返回信息: <Response [200]>  
+
+            
+
+2022-03-07 17:42:30,455 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-03-07 17:42:30,499 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/user/login  
+
+            请求参数：{'headers': {'Content-Length': '56', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'Proxy-Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'data': {'password': '2%2F5ao%2F4bbFA9OK%2FYIOjjVA%3D%3D', 'username': 'zsd1'}}  
+
+            返回信息: <Response [200]>  
+
+            
+
+2022-03-07 17:42:55,903 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-03-07 17:42:55,946 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/user/login  
+
+            请求参数：{'headers': {'Content-Length': '56', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'Proxy-Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'data': {'password': '2%2F5ao%2F4bbFA9OK%2FYIOjjVA%3D%3D', 'username': 'zsd1'}}  
+
+            返回信息: <Response [200]>  
+
+            
+
+2022-03-07 17:44:36,771 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-03-07 17:44:36,823 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/user/login  
+
+            请求参数：{'headers': {'Content-Length': '56', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'Proxy-Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'data': {'password': '2%2F5ao%2F4bbFA9OK%2FYIOjjVA%3D%3D', 'username': 'zsd1'}}  
+
+            返回信息: <Response [200]>  
+
+            
+
+2022-03-07 17:45:42,829 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-03-07 17:45:42,876 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/user/login  
+
+            请求参数：{'headers': {'Content-Length': '56', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'Proxy-Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'data': {'password': '2%2F5ao%2F4bbFA9OK%2FYIOjjVA%3D%3D', 'username': 'zsd1'}}  
+
+            返回信息: <Response [200]>  
+
+            
+
+2022-03-07 17:46:22,602 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-03-07 17:48:25,282 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-03-07 17:48:40,111 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-03-07 17:48:56,023 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-03-07 17:50:34,898 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-03-07 17:51:07,773 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-03-07 17:57:03,148 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-03-07 17:57:03,252 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/user/login  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'Content-Length': '56', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'data': {'password': 'j%2B%2FPBzyABP44lxZ5CgZK9Q%3D%3D', 'username': 'admin'}}  
+
+            返回信息: <Response [200]>  
+
+            

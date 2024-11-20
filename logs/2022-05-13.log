@@ -1,0 +1,231 @@
+
+2022-05-13 16:45:33,047 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-05-13 16:45:33,096 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/user/login  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'Content-Length': '56', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'data': {'password': '2/5ao/4bbFA9OK/YIOjjVA==', 'username': 'zhongli'}}  
+
+            返回信息: {'returnCode': 10010, 'success': False, 'data': None, 'returnMsg': '用户帐号或密码不正确！', 'returnData': {}}  
+
+            
+
+2022-05-13 16:45:33,098 登陆接口 INFO 登陆接口异常：assert 10010 == 200
+ +  where 10010 = json_search({'data': None, 'returnCode': 10010, 'returnData': {}, 'returnMsg': '用户帐号或密码不正确！', ...}, 'returnCode')
+
+2022-05-13 16:52:34,072 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-05-13 16:52:34,097 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/user/login  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'Content-Length': '56', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'data': {'password': '2/5ao/4bbFA9OK/YIOjjVA==', 'username': 'N/hB1rj3sKt5HLA5ikuapg=='}}  
+
+            返回信息: {'returnCode': 200, 'success': True, 'data': {'authorizationToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjdXJyZW50IjoxNjUyNDMyMjExNzE4LCJleHAiOjE2NTI0MzU4MTEsImlhdCI6MTY1MjQzMjIxMSwidXNlckNvZGUiOiJhYmZjMDg4ZTM5MjU0YzA4YTZlMzY1MDkxODg1YWFiMCJ9.yC5nmiM98mm6Aqxrgg6i1YTiWJYtGgKm6HaMdzjjfTc', 'topCode': '-1'}, 'returnMsg': '操作成功!', 'returnData': {}}  
+
+            
+
+2022-05-13 16:52:34,099 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\filView.yml
+
+2022-05-13 16:52:34,148 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/fil/view/filView  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'authorization_token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjdXJyZW50IjoxNjUyNDMyMjExNzE4LCJleHAiOjE2NTI0MzU4MTEsImlhdCI6MTY1MjQzMjIxMSwidXNlckNvZGUiOiJhYmZjMDg4ZTM5MjU0YzA4YTZlMzY1MDkxODg1YWFiMCJ9.yC5nmiM98mm6Aqxrgg6i1YTiWJYtGgKm6HaMdzjjfTc', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}}  
+
+            返回信息: {'returnCode': 200, 'success': True, 'data': {'orgCode': 'd96b58f212c6418b9f146d65e7add859', 'filInfoCode': None, 'orgName': '昆明市新东方培训学校', 'socialCreditCode': 'kmsxdfpxxx', 'unitAddress': '弗兰强虾', 'contractPerson': '阿强', 'contractPhone': '18229790602', 'isFil': 1, 'skillLevelIdentification': 8, 'professionalQualification': -1, 'specialAbility': -1, 'officialExamination': -1, 'codingStatus': 1}, 'returnMsg': '操作成功!', 'returnData': {}}  
+
+            
+
+2022-05-13 22:04:08,645 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-05-13 22:04:08,695 接口测试 INFO 
+            请求地址：http://222.247.54.74:8990/dns-ynjnrcpjfwpt-proj-backstage-api/bks/v1/user/login  
+
+            请求参数：{'headers': {'Proxy-Connection': 'keep-alive', 'Content-Length': '56', 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'zh-CN,zh;q=0.9', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36'}, 'data': {'password': '2/5ao/4bbFA9OK/YIOjjVA==', 'username': 'N/hB1rj3sKt5HLA5ikuapg=='}}  
+
+            返回信息: {'returnCode': 200, 'success': True, 'data': {'authorizationToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjdXJyZW50IjoxNjUyNDUwOTA2MTA0LCJleHAiOjE2NTI0NTQ1MDYsImlhdCI6MTY1MjQ1MDkwNiwidXNlckNvZGUiOiJhYmZjMDg4ZTM5MjU0YzA4YTZlMzY1MDkxODg1YWFiMCJ9.LyqFcaESaJO11eYlwuGaYkvP5D3AxdImsrrvkeNk-hw', 'topCode': '-1'}, 'returnMsg': '操作成功!', 'returnData': {}}  
+
+            
+
+2022-05-13 22:04:08,698 template ERROR [Errno 2] No such file or directory: 'D:\\zjg\\laodaomeidan-master\\requests_yaml\\saveExaPlanTestCase.yml'
+Traceback (most recent call last):
+  File "D:\zjg\laodaomeidan-master\common\template_handle.py", line 34, in template
+    with open(path, encoding="utf-8") as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'D:\\zjg\\laodaomeidan-master\\requests_yaml\\saveExaPlanTestCase.yml'
+
+2022-05-13 22:25:59,391 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\login.yml
+
+2022-05-13 22:34:08,556 template ERROR 'token'
+Traceback (most recent call last):
+  File "D:/zjg/laodaomeidan-master/common/template_handle.py", line 41, in template
+    template = Template(f.read()).substitute(data)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\string.py", line 132, in substitute
+    return self.pattern.sub(convert, self.template)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\string.py", line 125, in convert
+    return str(mapping[named])
+KeyError: 'token'
+
+2022-05-13 22:36:58,002 template ERROR 'token'
+Traceback (most recent call last):
+  File "D:/zjg/laodaomeidan-master/common/template_handle.py", line 41, in template
+    template = Template(f.read()).substitute(data)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\string.py", line 132, in substitute
+    return self.pattern.sub(convert, self.template)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\string.py", line 125, in convert
+    return str(mapping[named])
+KeyError: 'token'
+
+2022-05-13 22:37:17,951 template ERROR 'token'
+Traceback (most recent call last):
+  File "D:/zjg/laodaomeidan-master/common/template_handle.py", line 41, in template
+    template = Template(f.read()).substitute(data)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\string.py", line 132, in substitute
+    return self.pattern.sub(convert, self.template)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\string.py", line 125, in convert
+    return str(mapping[named])
+KeyError: 'token'
+
+2022-05-13 22:38:19,448 template ERROR 'starTime'
+Traceback (most recent call last):
+  File "D:/zjg/laodaomeidan-master/common/template_handle.py", line 41, in template
+    template = Template(f.read()).substitute(data)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\string.py", line 132, in substitute
+    return self.pattern.sub(convert, self.template)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\string.py", line 125, in convert
+    return str(mapping[named])
+KeyError: 'starTime'
+
+2022-05-13 22:39:25,023 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\saveExaPlanApi.yml
+
+2022-05-13 22:39:25,025 template ERROR mapping values are not allowed here
+  in "<unicode string>", line 16, column 30:
+                advanceSubmitTime: 30
+                                 ^
+Traceback (most recent call last):
+  File "D:/zjg/laodaomeidan-master/common/template_handle.py", line 44, in template
+    return yaml.safe_load(template)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\yaml\__init__.py", line 125, in safe_load
+    return load(stream, SafeLoader)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\yaml\__init__.py", line 81, in load
+    return loader.get_single_data()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\yaml\constructor.py", line 49, in get_single_data
+    node = self.get_single_node()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\yaml\composer.py", line 36, in get_single_node
+    document = self.compose_document()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\yaml\composer.py", line 55, in compose_document
+    node = self.compose_node(None, None)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\yaml\composer.py", line 84, in compose_node
+    node = self.compose_mapping_node(anchor)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\yaml\composer.py", line 133, in compose_mapping_node
+    item_value = self.compose_node(node, item_key)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\yaml\composer.py", line 84, in compose_node
+    node = self.compose_mapping_node(anchor)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\yaml\composer.py", line 133, in compose_mapping_node
+    item_value = self.compose_node(node, item_key)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\yaml\composer.py", line 84, in compose_node
+    node = self.compose_mapping_node(anchor)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\yaml\composer.py", line 127, in compose_mapping_node
+    while not self.check_event(MappingEndEvent):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\yaml\parser.py", line 98, in check_event
+    self.current_event = self.state()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\yaml\parser.py", line 428, in parse_block_mapping_key
+    if self.check_token(KeyToken):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\yaml\scanner.py", line 116, in check_token
+    self.fetch_more_tokens()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\yaml\scanner.py", line 223, in fetch_more_tokens
+    return self.fetch_value()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\yaml\scanner.py", line 579, in fetch_value
+    self.get_mark())
+yaml.scanner.ScannerError: mapping values are not allowed here
+  in "<unicode string>", line 16, column 30:
+                advanceSubmitTime: 30
+                                 ^
+
+2022-05-13 22:42:16,892 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\saveExaPlanApi.yml
+
+2022-05-13 22:42:16,895 template ERROR mapping values are not allowed here
+  in "<unicode string>", line 16, column 26:
+            advanceSubmitTime: 30
+                             ^
+Traceback (most recent call last):
+  File "D:/zjg/laodaomeidan-master/common/template_handle.py", line 44, in template
+    return yaml.safe_load(template)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\yaml\__init__.py", line 125, in safe_load
+    return load(stream, SafeLoader)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\yaml\__init__.py", line 81, in load
+    return loader.get_single_data()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\yaml\constructor.py", line 49, in get_single_data
+    node = self.get_single_node()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\yaml\composer.py", line 36, in get_single_node
+    document = self.compose_document()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\yaml\composer.py", line 55, in compose_document
+    node = self.compose_node(None, None)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\yaml\composer.py", line 84, in compose_node
+    node = self.compose_mapping_node(anchor)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\yaml\composer.py", line 133, in compose_mapping_node
+    item_value = self.compose_node(node, item_key)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\yaml\composer.py", line 84, in compose_node
+    node = self.compose_mapping_node(anchor)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\yaml\composer.py", line 133, in compose_mapping_node
+    item_value = self.compose_node(node, item_key)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\yaml\composer.py", line 84, in compose_node
+    node = self.compose_mapping_node(anchor)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\yaml\composer.py", line 127, in compose_mapping_node
+    while not self.check_event(MappingEndEvent):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\yaml\parser.py", line 98, in check_event
+    self.current_event = self.state()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\yaml\parser.py", line 428, in parse_block_mapping_key
+    if self.check_token(KeyToken):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\yaml\scanner.py", line 116, in check_token
+    self.fetch_more_tokens()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\yaml\scanner.py", line 223, in fetch_more_tokens
+    return self.fetch_value()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\yaml\scanner.py", line 579, in fetch_value
+    self.get_mark())
+yaml.scanner.ScannerError: mapping values are not allowed here
+  in "<unicode string>", line 16, column 26:
+            advanceSubmitTime: 30
+                             ^
+
+2022-05-13 22:43:18,067 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\saveExaPlanApi.yml
+
+2022-05-13 22:43:40,055 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\saveExaPlanApi.yml
+
+2022-05-13 22:43:40,207 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\request_login.yaml
+
+2022-05-13 22:43:40,241 调用接口时报错 ERROR Expecting value: line 1 column 1 (char 0)
+Traceback (most recent call last):
+  File "D:\zjg\laodaomeidan-master\base\base_requests.py", line 43, in send_requests
+    """ .format(url, req, res.json())
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\requests\models.py", line 910, in json
+    return complexjson.loads(self.text, **kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\json\__init__.py", line 348, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+2022-05-13 22:44:25,880 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\saveExaPlanApi.yml
+
+2022-05-13 22:44:26,026 template ERROR [Errno 2] No such file or directory: 'D:\\zjg\\laodaomeidan-master\\requests_yaml\\saveExaPlanApi.yaml'
+Traceback (most recent call last):
+  File "D:\zjg\laodaomeidan-master\common\template_handle.py", line 34, in template
+    with open(path, encoding="utf-8") as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'D:\\zjg\\laodaomeidan-master\\requests_yaml\\saveExaPlanApi.yaml'
+
+2022-05-13 22:45:14,182 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\saveExaPlanApi.yml
+
+2022-05-13 22:45:14,328 template ERROR [Errno 2] No such file or directory: 'D:\\zjg\\laodaomeidan-master\\requests_yaml\\saveExaPlanApi.yaml'
+Traceback (most recent call last):
+  File "D:\zjg\laodaomeidan-master\common\template_handle.py", line 34, in template
+    with open(path, encoding="utf-8") as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'D:\\zjg\\laodaomeidan-master\\requests_yaml\\saveExaPlanApi.yaml'
+
+2022-05-13 22:45:34,685 template ERROR [Errno 2] No such file or directory: 'D:\\zjg\\laodaomeidan-master\\requests_yaml\\saveExaPlanApi.yaml'
+Traceback (most recent call last):
+  File "D:\zjg\laodaomeidan-master\common\template_handle.py", line 34, in template
+    with open(path, encoding="utf-8") as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'D:\\zjg\\laodaomeidan-master\\requests_yaml\\saveExaPlanApi.yaml'
+
+2022-05-13 22:46:17,321 template INFO 模板替换成功，替换的模板为D:\zjg\laodaomeidan-master\requests_yaml\saveExaPlanApi.yml
